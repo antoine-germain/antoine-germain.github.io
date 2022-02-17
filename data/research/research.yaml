@@ -1,0 +1,57 @@
+worksinprogress:
+
+- title : "Basic income versus fairness: optimal taxation with inactive agents"
+  book : "Draft available soon"
+  abstract : > 
+     We study the interaction of redistribution and labour income taxation when there are inactive, unemployed and employed agents. In a model with both heterogeneous preferences and unequal skills, labour market inactivity may arise because of home production or disutility of participation in the formal sector. The social objective is characterized axiomatically based on fairness requirements championing the ethics of equality of opportunity while respecting the Pareto principle. Applying this objective in a Mirrleesian second-best environment, we derive simple formulas showing that it is neither optimal nor welfare-improving to grant an unconditional social benefit, unless the home sector dominates the labour market technology. This suggests that granting a basic income may conflict with equality of opportunity in most developed countries, while it might desirable for developing economies.
+
+
+- title : "Fair capital taxation"
+  book : "Abstract available soon"	
+
+- title : "Laissez-faire versus Separability"
+  book : "Abstract available soon"
+
+- title : "Multidimensional poverty measurement and adaptive preferences"
+  coauthors : "Tom Duterme and Antoine Aspeel"
+  book : "Abstract available soon"
+
+talks:
+
+- title : "Doctoral workshop"
+  book : "UNamur"
+  year : "2021"
+  note : "December 14"
+
+- title : "Fair Inheritance Workshop"
+  book : "Hoover Chair, UCLouvain"
+  year : "2021"
+  note : "June 25"
+  link : https://uclouvain.be/fr/chercher/hoover/evenements/fair-inheritance-doctoral-workshop-4.html
+
+- title : "Lunch seminar"
+  book : "Federal Planning Bureau"
+  year : "2019"
+  note : "September 4"
+
+policy: 
+- title: "Inégalités d'inflation, prix de l'énergie et crise sanitaire"
+  book : "Regards économiques 169"
+  year : "2022"
+  coauthors : "Jean Hindriks"
+  links :
+   - url : "https://www.regards-economiques.be/index.php?option=com_reco&view=article&cid=219"
+     text : "Press release"
+   - url : "https://www.regards-economiques.be/images/reco-pdf/reco_219.pdf"
+     text : "PDF"
+
+
+#workingpapers:
+
+
+
+
+#publications:
+
+ # abstract : >
+  # Available soon

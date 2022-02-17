@@ -1,0 +1,17 @@
+relativeURLs = true
+googleAnalytics = "UA-159072578-1"
+title = "Antoine Germain"
+theme = "academimal"
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[author]
+name = "Antoine Germain"
+
+[params]
+title = "F.R.S.- F.N.R.S."
+institution = "CORE/LIDAM, UCLouvain"
+logo = "my_face.jpg"
+Twitter = "ant1germain"
+Email = "antoine.germain@uclouvain.be"
