@@ -8,8 +8,7 @@ Welcome to my webpage!
 
 I am a E.G. de Barsy Research Fellow at the F.R.S-F.N.R.S. and a PhD student in economics at CORE/LIDAM, UCLouvain.
 
-My research deals with issues related to public and welfare economics. I combine insights from the theories of **optimal taxation** and fairness in order to link some normative considerations with practical policy recommandations on the taxation of labour income, capital and bequests. 
-Else, I am interested in aggregation problems, price indices, taxes, well-being, poverty, measurement theory, history of economic throughts and distributive justice. 
+My research deals with issues related to public and welfare economics. I combine insights from the theories of **optimal taxation** and fairness in order to link some normative considerations with practical policy recommandations on the taxation of labour income, capital and bequests.
 
 In 2020, I obtained a MRes in Economics from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/programs/master+of+science/Economic+and+Social+Sciences/Program+Structure/) and the [Economics School of Louvain](https://uclouvain.be/en/faculties/espo/esl/research-master-in-economics-120.html). My master [thesis](http://hdl.handle.net/2078.1/thesis:26601) in optimal taxation theory was written under the supervision of Profs. [François Maniquet](https://scholar.google.be/citations?user=cQR8M6IAAAAJ&hl=fr) (UCLouvain) and [Nicola Pavoni](https://scholar.google.it/citations?user=ijJrvG8AAAAJ&hl=it) (Bocconi)
 
