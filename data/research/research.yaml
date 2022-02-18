@@ -9,12 +9,12 @@ worksinprogress:
 - title : "Fair capital taxation"
   book : "Abstract available soon"	
 
-<! -- - title : "Laissez-faire versus Separability"
-  book : "Abstract available soon"
+#{{/* a comment  - title : "Laissez-faire versus Separability"
+#  book : "Abstract available soon"
 
-- title : "Multidimensional poverty measurement and adaptive preferences"
-  coauthors : "Tom Duterme and Antoine Aspeel"
-  book : "Abstract available soon"     -- !>
+#- title : "Multidimensional poverty measurement and adaptive preferences"
+#  coauthors : "Tom Duterme and Antoine Aspeel"
+# book : "Abstract available soon"     */}}
 
 talks:
 
