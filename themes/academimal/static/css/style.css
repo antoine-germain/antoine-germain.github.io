@@ -276,19 +276,19 @@ h1 {
   font-size: 28px; }
 
 h2 {
-  color: #55; }
+  color: #393939; }
 
 h3, h4, h5, h6 {
-  color: #79797; }
+  color: #494949; }
 
 a.sidebar {
-  color: #ffff;
+  color: #fff;
   text-decoration: none; 
   margin-top: -50px;
   word-break: break-word; }
 
 a.sidebar:hover, a.sidebar:focus {
-  color: #B0442D; }
+  color: #046; }
 
 a.sidebar small {
   font-size: 11px;
@@ -296,26 +296,26 @@ a.sidebar small {
   display: inline-block; }
 
 a.sidebar:hover small {
-  color: #B0442D; }
+  color: #046; }
 
 p.sidebar {
   margin-top: -10px;}
 
 a {
-  color: #55;
+  color: #267CB9;
   text-decoration: none; }
 
 a:hover, a:focus {
-  color: #78; }
+  color: #046; }
 
 a small {
   font-size: 11px;
-  color: #22;
+  color: #777;
   margin-top: -0.3em;
   display: block; }
 
 a:hover small {
-  color: #78; }
+  color: #777; }
 
 .wrapper {
   width: 1060px;
@@ -333,9 +333,9 @@ code, pre {
 
 pre {
   padding: 8px 15px;
-  background: #22;
+  background: #f8f8f8;
   border-radius: 5px;
-  border: 1px solid #72;
+  border: 1px solid #e5e5e5;
   overflow-x: auto; }
 
 table {
@@ -345,14 +345,14 @@ table {
 th, td {
   text-align: left;
   padding: 5px 10px;
-  border-bottom: 1px solid #12; }
+  border-bottom: 1px solid #e5e5e5; }
 
 dt {
-  color: #22;
+  color: #444;
   font-weight: 700; }
 
 th {
-  color: #22; }
+  color: #444; }
 
 img {
   max-width: 100%; }
