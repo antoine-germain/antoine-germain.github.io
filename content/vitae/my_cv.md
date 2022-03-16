@@ -16,7 +16,7 @@ E.G. de Barsy Grant, Research Fellow at the F.N.R.S since October 2021
 
 2018-2020 *MRes in Economics, UCLouvain*
 
-**Undergraduate**
+**Undergraduate studies**
 
 2015-2018 BSc in Economic and Management Sciences, UCLouvain
 
