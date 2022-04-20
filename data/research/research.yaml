@@ -16,6 +16,20 @@ worksinprogress:
 # book : "Abstract available soon"     */}}
 
 talks:
+- title : "APET 2022"
+  book : "Aix-Marseille School of Economics"
+  year : "2022"
+  note : "June"
+
+- title : "ECORES Summer School 2022"
+  book : "KULeuven"
+  year : "2022"
+  note : "May"
+
+- title : "PhD Apero"
+  book : "Economics School of Louvain"
+  year : "2022"
+  note : "April 21"
 
 - title : "Doctoral workshop"
   book : "UNamur"
