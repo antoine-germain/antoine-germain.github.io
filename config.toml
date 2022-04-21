@@ -5,6 +5,7 @@ theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm"]
+baseURL = "https://antoine-germain.github.io/"
 
 [author]
 name = "Antoine Germain"
