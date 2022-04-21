@@ -1,7 +1,0 @@
-Pour changer la couleur de la sidebar, il faut chipoter avec le document "style" dans themes/acedemimal/css. 
-La couleur actuelle est #B0442D. Tu peux changer tous les endroits où elle appparait
-
-Pour changer l'ordre des élements de la sidebar, il faut chipoter dans C:\Users\angermain\Desktop\site web\persoweb\layouts\partials
-
-Pour créer un nouvel onglet, il faut à la fois ajouter un dossier "onglet" dans /content et un dossier "onglet" dans themes/academimal/layouts
-Il faut ensuite adapter son réglage dans sidebar
