@@ -1,5 +1,5 @@
 +++
-title = "Homepage"
+title = "Homepage of Antoine Germain"
 +++
 
 ## Hello! I'm Antoine Germain.
