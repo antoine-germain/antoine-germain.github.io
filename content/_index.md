@@ -15,7 +15,7 @@ In 2020, I obtained a MRes in Economics from [Bocconi University](https://www.un
 
 ## Contact
 
-**Email:** [antoine.germain@uclouvain.be](antoine.germain@uclouvain.be)  
+**Email:** [antoine.germain@uclouvain.be](mailto:antoine.germain@uclouvain.be)  
 **Adress:**
 Center for Operations Research and Econometrics  
 Voie du Roman Pays, 34  
