@@ -4,9 +4,6 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-
-
 <url>
   <loc>https://antoine-germain.github.io/</loc>
   <lastmod>2022-04-27T12:16:34+00:00</lastmod>
@@ -37,6 +34,4 @@
   <lastmod>2022-04-27T12:16:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
-
 </urlset>
