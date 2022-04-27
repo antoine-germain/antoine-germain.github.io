@@ -41,7 +41,7 @@
 {{ if (eq "Homepage" ($.Scratch.Get "currentPageTitle")) }}
 <img src="{{ . | relURL }}" alt="Logo" style="padding-bottom: 3em;"/>
 {{ else }}
-<img class="nothomepage" src="{{ . | relURL }}" alt="Logo" style="padding-bottom: 3em;"/>
+<img class="nothomepage" src="{{ . | relURL }}" alt="Logo" height="200" style="padding-bottom: 3em;"/>
 {{ end }}
 {{ end }}
 
