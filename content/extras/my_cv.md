@@ -14,3 +14,7 @@ Coming soon
 
 
 Coming soon
+
+
+## Website info:
+This website was built using [Hugo](https://gohugo.io/) and following [Stephanie Stantcheva](https://www.stefanie-stantcheva.com/)'s code. Many thanks to her!
