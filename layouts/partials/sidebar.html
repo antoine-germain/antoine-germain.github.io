@@ -39,14 +39,11 @@
 
 <p class="sidebar"><a class="sidebar" href="{{ "extras" | relURL }}">Some extras</a></p>
 
-<p class="sidebar"><a class="sidebar" href="https://www.frs-fnrs.be/en/le-fnrs/missions-du-fnrs">National Fund for Scientific Research</a></p>
-<p class="sidebar"><a class="sidebar" href="https://uclouvain.be/en/research-institutes/lidam">LIDAM, UCLouvain</a></p>
-
 {{ with .Site.Params.logo }}
 {{ if (eq "Homepage" ($.Scratch.Get "currentPageTitle")) }}
-<img src="{{ . | relURL }}" alt="Logo" style="padding-bottom: 2em;"/>
+<img src="{{ . | relURL }}" alt="Logo" style="padding-bottom: 3em;"/>
 {{ else }}
-<img class="nothomepage" src="{{ . | relURL }}" alt="Logo" height="150" style="padding-bottom: 2em;"/>
+<img class="nothomepage" src="{{ . | relURL }}" alt="Logo" height="200" style="padding-bottom: 3em;"/>
 {{ end }}
 {{ end }}
 
