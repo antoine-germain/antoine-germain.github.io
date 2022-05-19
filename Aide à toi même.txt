@@ -5,3 +5,10 @@ Pour changer l'ordre des élements de la sidebar, il faut chipoter dans C:\Users
 
 Pour créer un nouvel onglet, il faut à la fois ajouter un dossier "onglet" dans /content et un dossier "onglet" dans themes/academimal/layouts
 Il faut ensuite adapter son réglage dans sidebar
+
+
+Dans la sidebar, tu peux ajouter des liens vers sites d'intrêt par la commande suivante
+<p class="sidebar"><a class="sidebar" href="https://www.frs-fnrs.be/en/le-fnrs/missions-du-fnrs">National Fund for Scientific Research</a></p>
+<p class="sidebar"><a class="sidebar" href="https://uclouvain.be/en/research-institutes/lidam">LIDAM, UCLouvain</a></p>
+
+La bar de scroll du sidebar a été retirée dans  themes/academimal/layouts/partials/header.html , j'ai retiré scroll dans <header style="overflow:scroll;">
