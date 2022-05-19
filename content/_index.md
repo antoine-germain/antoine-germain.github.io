@@ -23,5 +23,5 @@ Voie du Roman Pays, 34
 Belgium  
  
 
-**Website:** This website was built using Hugo and following [Stephanie Stantcheva](https://www.stefanie-stantcheva.com/)'s code. Many thanks to her!
+
 
