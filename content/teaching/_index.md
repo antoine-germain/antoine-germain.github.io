@@ -20,7 +20,7 @@ Microéconomie [FR] : Prof. Maniquet, Prof. Johnen, A. Khatibi
 Fall '20, Spring '21
 
 Economie Politique [FR] : A. Khatibi, Ph. Ledent
-Fall '19, Fall '20
+[Fall '19](https://antoine-germain.github.io/2019-2020-Q1-LCOPS1115B_A.Germain_-_Economie_politique_-_TP_-_Papier.pdf), Fall '20
 
 **Monitoring**
 
