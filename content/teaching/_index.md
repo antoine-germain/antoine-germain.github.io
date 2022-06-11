@@ -17,7 +17,7 @@ Advanced Microeconomics II - Game Theory and Mechanism Design [ENG] : Prof. Mani
 **Undergraduate tutorials**
 
 Microéconomie [FR] : Prof. Maniquet, Prof. Johnen, A. Khatibi
-[Fall '20](https://antoine-germain.github.io/2020-2021-Q1-LECGE1222C_A._Germain_-_Microéconomie_-_TP_-_Web.pdf), [Spring '21]((https://antoine-germain.github.io/2020-2021-Q2-LECGE1222B_A._Germain_-_Microéconomie_-_TP_-_Web.pdf)
+[Fall '20](https://antoine-germain.github.io/2020-2021-Q1-LECGE1222C_A._Germain_-_Microéconomie_-_TP_-_Web.pdf), [Spring '21](https://antoine-germain.github.io/2020-2021-Q2-LECGE1222B.pdf)
 
 Economie Politique [FR] : A. Khatibi, Ph. Ledent
 [Fall '19](https://antoine-germain.github.io/2019-2020-Q1-LCOPS1115B_A.Germain_-_Economie_politique_-_TP_-_Papier.pdf), Fall '20
