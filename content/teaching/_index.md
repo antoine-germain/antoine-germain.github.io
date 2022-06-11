@@ -3,7 +3,7 @@ title = "Teaching"
 weight = 1
 +++
 
-## Teaching
+## Teaching evaluations
 
 **Graduate tutorials**
 
@@ -29,7 +29,3 @@ Fall '17
 
 Statistiques en économie et gestion [FR] : Prof. Kestemont
 Spring '17
-
-
-**Teaching evaluations by students**
-To be uploaded. 
