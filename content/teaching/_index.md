@@ -8,7 +8,7 @@ weight = 1
 **Graduate tutorials**
 
 Advanced Microeconomics I - Decision Theory and General Equilibrium [ENG] : Prof. Maniquet, Prof. Panin
-[Fall '20](https://antoine-germain.github.io/2020-2021-Q1-LECON2111_A._Germain_-_Advanced_Microeconomics_I___Decision_and_Game_Theory_-_TP_-_Web.pdf), [Fall '21](https://antoine-germain.github.io/2021-2022-Q1-LECON2111_Advanced_Microeconomics_I__Decision_and_Game_Theory_A.Germain__F.Maniquet_TP(1).pdf)
+[Fall '20](https://antoine-germain.github.io/2020-2021-Q1-LECON2111_A._Germain_-_Advanced_Microeconomics_I___Decision_and_Game_Theory_-_TP_-_Web.pdf), [Fall '21](https://github.com/antoine-germain/antoine-germain.github.io/blob/f0d5ba2271eef39a18f7a31f4619bb6dfe991508/static/2021-2022-Q1-LECON2111_Advanced_Microeconomics_I__Decision_and_Game_Theory_A.Germain__F.Maniquet_TP%20(1).pdf)
 
 Advanced Microeconomics II - Game Theory and Mechanism Design [ENG] : Prof. Maniquet
 [Spring '21](https://antoine-germain.github.io/2020-2021-Q2-LECON2112_A._Germain_-_Advanced_Microeconomics_II___Game_theory_and_Mechanism_Design_-_TP_-_Web.pdf)
