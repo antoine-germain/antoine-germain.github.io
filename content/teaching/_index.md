@@ -3,7 +3,9 @@ title = "Teaching"
 weight = 1
 +++
 
-## Teaching evaluations
+## Teaching evaluations 
+
+*Click on the date to get students' evaluations! *
 
 **Graduate tutorials**
 
