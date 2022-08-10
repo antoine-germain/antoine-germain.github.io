@@ -24,6 +24,8 @@ Spring 2018 Exchange student, Maastricht University
 
 ## Experience
 
+2020-2021 Teaching assistant, *UCLouvain*
+
 2019 Internship, *Federal Planning Bureau*, Brussels, Belgium. 
 
 2019 Internship *Itinera Institute*, Brussels, Belgium
