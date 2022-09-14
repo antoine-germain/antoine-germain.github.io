@@ -10,6 +10,9 @@ worksinprogress:
   abstract : >
     How can we tax savings, be they wealth, estate or property, in a fair way? I study redistributive taxation of labour incomes and savings in a model where agents are heterogeneous in their discount rates, preferences for leisure, productivities and capital stocks. The Paretian social objective is pinned down by axioms championing two fairness principles: (1) agents should not be penalized for their propensity to save but (2) should be compensated if they cannot save. In turn, the social welfare function prioritizes a well-being measure that is orthogonal to the saving rate but favors the hardworking poors with the smallest capital stock. In the second best, a (suboptimal) reform is desirable if and only if the smallest subsidy is increased for the minimum wage-earners whose savings lie below some threshold. At the optimum, this threshold acts a critical point (below) above which savings taxation is (un)desirable. Overall, the paper provides a fairness rationale for the use of exemption thresholds in the taxation of wealth, estate, or property but also for energy or housing policies. 
 
+- title : "3. Fairness and taxation within and across households"
+  book : "Abstract available soon"	
+  
 #{{/* a comment  - title : "Laissez-faire versus Separability"
 #  book : "Abstract available soon"
 
@@ -18,6 +21,16 @@ worksinprogress:
 # book : "Abstract available soon"     */}}
 
 talks:
+- title : "17th Belgian Day for Labor Economists"
+  book : "Hoover Chair, UCLouvain"
+  year : "2022"
+  note : "October 7"
+  
+- title : "MICH seminar"
+  book : "Hoover Chair, UCLouvain"
+  year : "2022"
+  note : "September 20"
+
 - title : "International Conference on Public Economic Theory"
   book : "APET in Marseille"
   year : "2022"
