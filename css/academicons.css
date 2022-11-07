@@ -252,7 +252,7 @@
 }
 /*  Duplication of the FontAwesome style classes using 'ai' in place of 'fa'. */
 .ai-lg {
-  font-size: 1.33333333em;
+  font-size: 2em;
   line-height: 0.75em;
   vertical-align: -15%;
 }
@@ -312,21 +312,21 @@
  *  is called after font-awesome.css.
  */
 .fa-lg {
-  font-size: 1.33333333em;
+  font-size: 2em;
   line-height: 0.75em;
   vertical-align: -15%;
 }
 .fa-2x {
-  font-size: 2em;
-}
-.fa-3x {
   font-size: 3em;
 }
-.fa-4x {
+.fa-3x {
   font-size: 4em;
 }
-.fa-5x {
+.fa-4x {
   font-size: 5em;
+}
+.fa-5x {
+  font-size: 6em;
 }
 .fa-fw {
   width: 1.28571429em;
