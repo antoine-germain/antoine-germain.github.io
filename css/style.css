@@ -273,7 +273,7 @@ h1, h2, h3 {
 
 h1 {
   color: #fff;
-  font-size: 28px; }
+  font-size: 38px; }
 
 h2 {
   color: #393939; }
@@ -291,7 +291,7 @@ a.sidebar:hover, a.sidebar:focus {
   color: #046; }
 
 a.sidebar small {
-  font-size: 11px;
+  font-size: 18px;
   color: #fff;
   display: inline-block; }
 
@@ -309,7 +309,7 @@ a:hover, a:focus {
   color: #046; }
 
 a small {
-  font-size: 11px;
+  font-size: 18px;
   color: #777;
   margin-top: -0.3em;
   display: block; }
@@ -393,7 +393,7 @@ header li:last-child a {
 
 header ul a {
   line-height: 1;
-  font-size: 11px;
+  font-size: 18px;
   color: #B0442D;
   display: block;
   text-align: center;
@@ -416,7 +416,7 @@ header ul li + li + li {
   width: 89px; }
 
 header ul a strong {
-  font-size: 14px;
+  font-size: 20px;
   display: block;
   color: #B0442D; }
 
@@ -432,7 +432,7 @@ h1, h2, h3, h3, h4, h5, h6 {
   text-align: left; }
 
 small {
-  font-size: 11px; }
+  font-size: 18px; }
 
 hr {
   border: 0;
