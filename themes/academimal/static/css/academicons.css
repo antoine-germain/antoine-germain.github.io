@@ -4,9 +4,6 @@
  *  Square icons designed to be used alongside Font Awesome square icons - https://fortawesome.github.io/Font-Awesome/
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
  */
-html {
-  font-size: 20px; /* default is 15px */
-}
 @font-face {
     font-family: 'Academicons';
     src:url('../fonts/academicons/academicons.eot?v=1.8.6');
@@ -16,11 +13,12 @@ html {
         url('../fonts/academicons/academicons.svg?v=1.8.6#academicons') format('svg');
     font-weight: normal;
     font-style: normal;
+    font-size:25px;
 }
 .ai {
 	display:inline-block;
 	font:normal normal normal 18px/1 Academicons;
-	font-size:20px;
+	font-size:25px;
 	text-rendering:auto;
 	-webkit-font-smoothing:antialiased;
 	-moz-osx-font-smoothing:grayscale;
@@ -369,4 +367,7 @@ html {
 }
 .fa.fa-pull-right {
   margin-left: .3em;
+}
+html {
+  font-size: 20px; /* default is 15px */
 }
