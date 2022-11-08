@@ -1,3 +1,6 @@
+html {
+  font-size: 20px; /* default is 15px */
+}
 @font-face {
   font-family: 'Noto Sans';
   font-weight: 400;
@@ -488,6 +491,4 @@ footer {
     padding: 0.4in;
     font-size: 18pt;
     color: #444; } }
-html {
-  font-size: 20px; /* default is 15px */
-}
+
