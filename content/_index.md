@@ -6,7 +6,9 @@ title = "Homepage"
 
 Welcome to my webpage!
 
-I am a E.G. de Barsy Research Fellow at the [F.R.S-F.N.R.S.](https://www.frs-fnrs.be/en/le-fnrs/missions-du-fnrs) and a PhD student in economics at CORE/[LIDAM](https://uclouvain.be/en/research-institutes/lidam), UCLouvain.
+I am a E.G. de Barsy Research Fellow at the [F.R.S-F.N.R.S.](https://www.frs-fnrs.be/en/le-fnrs/missions-du-fnrs) and a PhD student in economics at CORE/[LIDAM](https://uclouvain.be/en/research-institutes/lidam), UCLouvain. I am also part of the [European Doctoral Program in Economics](https://uclouvain.be/en/research-institutes/lidam/core/edp.html).
+
+**During Spring 2022, I'll be visiting the [London School of Economics](https://www.lse.ac.uk/economics). Hit me up if you're around!
 
 My research deals with issues related to public and welfare economics. I combine insights from the theories of **optimal taxation** and fairness in order to link some normative considerations with practical policy recommandations on the taxation of labour income, capital and bequests.
 
