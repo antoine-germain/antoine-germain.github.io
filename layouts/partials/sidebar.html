@@ -39,12 +39,15 @@
 
 <p class="sidebar"><a class="sidebar" href="{{ "extras" | relURL }}">Some extras</a></p>
 
+<!---
 {{ with .Site.Params.logo }}
 {{ if (eq "Homepage" ($.Scratch.Get "currentPageTitle")) }}
 <img src="{{ . | relURL }}" alt="Logo" height="auto" style="padding-bottom: 3em;"/>
 {{ else }}
 <img class="nothomepage" src="{{ . | relURL }}" alt="Logo" height="auto" style="padding-bottom: 3em;"/>
 {{ end }}
+----> 
+
 {{ end }}
 
 
