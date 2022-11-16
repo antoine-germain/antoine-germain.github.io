@@ -1,22 +1,13 @@
 {{ define "main" -}}
 {{ .Content }}
-:::: {style="display: flex;"}
-
-::: {}
-Here is the **first** Div.
-
-```{r}
-str(iris)
-```
-:::
-
-::: {}
-And this block will be put on the right:
-
-```{r}
-plot(iris[, -5])
-```
-:::
-
-::::
+  <body>
+    <div class="container">
+       <div class="text">
+        <h1>My contact information is here below.</h1>
+      </div>
+      <div class="image">
+        <img src="https://raw.githubusercontent.com/antoine-germain/antoine-germain.github.io/main/content/pic2022.webp">
+      </div>
+    </div>
+  </body>
 {{- end }}
