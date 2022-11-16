@@ -1,12 +1,32 @@
 {{ define "main" -}}
 {{ .Content }}
+<style>
+      .container {
+        display: flex;
+        align-items: center;
+        justify-content: center
+      }
+      img {
+        max-width: 40%
+      }
+      .image {
+        flex-basis: 70%;
+        order: 2;
+      }
+      .text {
+        color: #CD5C5C;
+        padding-left: 20px;
+        font: italic 10px "Fira Sans", serif;
+      }
+    </style>
+  </head>
   <body>
     <div class="container">
-       <div class="text">
-        <h1>My contact information is here below.</h1>
-      </div>
       <div class="image">
         <img src="https://raw.githubusercontent.com/antoine-germain/antoine-germain.github.io/main/content/pic2022.webp">
+      </div>
+      <div class="text">
+        <h1> My contact informayion is here </h1>
       </div>
     </div>
   </body>
