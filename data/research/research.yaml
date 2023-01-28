@@ -21,6 +21,12 @@ worksinprogress:
 # book : "Abstract available soon"     */}}
 
 talks:
+- title : "Public Economics Work-in-progress"
+  book : "London School of Economics"
+  year : "2023"
+  note : "February 15"
+
+
 - title : "17th Belgian Day for Labor Economists"
   book : "Federal Planning Bureau, Brussels"
   year : "2022"
