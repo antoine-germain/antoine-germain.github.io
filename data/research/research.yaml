@@ -1,7 +1,7 @@
 worksinprogress:
 
 - title : "1. Basic income versus fairness: optimal taxation with inactive agents"
-  book : "[Draft available here](https://github.com/antoine-germain/antoine-germain.github.io/blob/17a6cfe0c28a86e2a5afb496fae8a7815a9ae537/static/research/basic_income_v_fairness.pdf)"
+  book : "[Draft available here](https://antoine-germain.github.io/research/basic_income_v_fairness.pdf)"
   abstract : > 
       I study redistributive taxation when there are inactive, unemployed and employed agents. In a model with both heterogeneous preferences and unequal skills, labor market inactivity arises because of home production and disutility of participation. The social objective is characterized by fairness axioms championing the ethics of equality of opportunity while upholding the Pareto principle. In the second-best, the optimal inactivity benefit increases with the safety net but decreases with the average wage. Empirical applications suggest that introducing an inactivity benefit would not be welfare-improving in most advanced economies, outlining an unexpected conflict between basic income and equality of opportunity.
       
