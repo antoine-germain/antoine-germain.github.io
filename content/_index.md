@@ -12,7 +12,7 @@ My supervisor is [François Maniquet](https://scholar.google.be/citations?user=c
 
 **During Spring 2023, I'll be visiting the [London School of Economics](https://www.lse.ac.uk/economics). Hit me up if you're around!**
 
-My research focuses on public and welfare economics. I'm interested in normative issues related to redistribution problems. 
+My research focuses on public and welfare economics. I'm interested in normative issues related to redistribution policies. 
 
 <!-- I combine insights from the theories of **optimal taxation** and fairness in order to link some normative considerations with practical policy recommandations on the taxation of labour income, capital and bequests. -->
 
