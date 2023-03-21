@@ -2,9 +2,9 @@
 title = "Homepage"
 +++
 
-## Hello! I'm Antoine Germain.
+## Welcome to my webpage!! I'm Antoine.
 
-Welcome to my webpage!
+
 
 I am a E.G. de Barsy Research Fellow at the [F.R.S-F.N.R.S.](https://www.frs-fnrs.be/en/le-fnrs/missions-du-fnrs) and a PhD candidate in economics at CORE/[LIDAM](https://uclouvain.be/en/research-institutes/lidam), UCLouvain.  I am also part of the [European Doctoral Program in Economics](https://uclouvain.be/en/research-institutes/lidam/core/edp.html).
 
