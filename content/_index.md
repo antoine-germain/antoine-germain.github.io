@@ -2,7 +2,7 @@
 title = "Homepage"
 +++
 
-## Welcome to my webpage! I'm Antoine.
+## Welcome! I'm Antoine.
 
 
 
