@@ -36,7 +36,7 @@ Spring 2018 Exchange student, Maastricht University
 
 2020 ADEL prize for the Best Master Thesis in Economics, UCLouvain
 
-2019 Fondo Sostegno Giovanni, *Italian Ministry for Education, Universities and Research*
+2019 Fondo Sostegno Giovani, *Italian Ministry for Education, Universities and Research*
 
 2018-2019 Erasmus+ scholarship, 15 months, *European Commission*
 
