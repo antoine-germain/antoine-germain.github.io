@@ -21,6 +21,11 @@ worksinprogress:
 # book : "Abstract available soon"     */}}
 
 talks:
+- title : "EDP Jamboree"
+  book : "Paris School of Economics"
+  year : "2023"
+  note : "June 8"
+
 - title : "1st Welfare and Policy Conference"
   book : "Bordeaux School of Economics"
   year : "2023"
