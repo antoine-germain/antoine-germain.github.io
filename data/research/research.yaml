@@ -21,6 +21,11 @@ worksinprogress:
 # book : "Abstract available soon"     */}}
 
 talks:
+- title : "79th Annual Congress of the IIPF"
+  book : "Utah State University"
+  year : "2023"
+  note : "August 14"
+
 - title : "EDP Jamboree"
   book : "Paris School of Economics"
   year : "2023"
