@@ -1,4 +1,4 @@
-### Stefanie Stantcheva's Website - Documentation
+### This webiste was built using Stefanie Stantcheva's Website Documentation. Here is her readme.md.
 
 This website was built using Hugo, the Academimal theme for Hugo and elements from Lei Yang's and Gautam Rao's website. Thanks a lot to both!
 
