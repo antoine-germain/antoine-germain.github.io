@@ -6,7 +6,7 @@ title = "Homepage"
 
 
 
-I am a E.G. de Barsy Research Fellow at the [National Fund for Scientifc Research-F.N.R.S.](https://www.frs-fnrs.be/en/le-fnrs/missions-du-fnrs) and a PhD candidate at CORE/[LIDAM](https://uclouvain.be/en/research-institutes/lidam), UCLouvain. I recently visited the [LSE](https://www.lse.ac.uk/economics) as part of the [European Doctoral Program in Economics](https://uclouvain.be/en/research-institutes/lidam/core/edp.html).
+I am a E.G. de Barsy Research Fellow at the [National Fund for Scientifc Research-F.N.R.S.](https://www.frs-fnrs.be/en/le-fnrs/missions-du-fnrs) and a PhD candidate at CORE/[LIDAM](https://uclouvain.be/en/research-institutes/lidam), UCLouvain. I recently visited [LSE](https://www.lse.ac.uk/economics) as part of the [European Doctoral Program in Economics](https://uclouvain.be/en/research-institutes/lidam/core/edp.html).
 
 My supervisor is [François Maniquet](https://scholar.google.be/citations?user=cQR8M6IAAAAJ&hl=fr).
 
