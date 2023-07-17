@@ -28,6 +28,6 @@ Voie du Roman Pays, 34
 1348 Louvain-la-Neuve  
 Belgium   -->
  
-
+## [Click here to download my CV](https://antoine-germain.github.io/germain_cv.pdf)
 
 
