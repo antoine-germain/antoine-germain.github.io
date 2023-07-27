@@ -1,13 +1,6 @@
 
 
-workingpapers: 
 
-- title : "1. Basic income versus fairness: redistribution with inactive agents [NEW! July 2023]"
-  pdflink : "https://dial.uclouvain.be/pr/boreal/en/object/boreal%3A277040/datastream/PDF_01/view"
-  book: "CORE Discussion Paper 2023/22"
-  abstract : > 
-      This paper studies redistributive transfers between inactive, unemployed and employed agents. In a model with fully heterogeneous preferences and arbitrarily unequal skills, labor market inactivity arises from home production and disutility of participation. The social objective champions the ethics of equality of opportunity while upholding the Pareto principle. In the Mirrleesian second-best, it turns out that welfare analysis is reduced to a sufficient statistic. Its empirical application suggests that an inactivity benefit would not be welfare-improving in most high-income countries. Overall, the equity gains of introducing a basic income with respect to equality of opportunity are tenuous, whatever its efficiency costs.
-      
 
 worksinprogress:
 
@@ -18,6 +11,16 @@ worksinprogress:
 
 - title : "3. Minimum leisure and minimum wages"
   book : "Abstract available soon"	
+
+
+workingpapers: 
+
+- title : "1. Basic income versus fairness: redistribution with inactive agents [NEW! July 2023]"
+  pdflink : "https://dial.uclouvain.be/pr/boreal/en/object/boreal%3A277040/datastream/PDF_01/view"
+  book: "CORE Discussion Paper 2023/22"
+  abstract : > 
+      This paper studies redistributive transfers between inactive, unemployed and employed agents. In a model with fully heterogeneous preferences and arbitrarily unequal skills, labor market inactivity arises from home production and disutility of participation. The social objective champions the ethics of equality of opportunity while upholding the Pareto principle. In the Mirrleesian second-best, it turns out that welfare analysis is reduced to a sufficient statistic. Its empirical application suggests that an inactivity benefit would not be welfare-improving in most high-income countries. Overall, the equity gains of introducing a basic income with respect to equality of opportunity are tenuous, whatever its efficiency costs.
+      
   
 #{{/* a comment  - title : "Laissez-faire versus Separability"
 #  book : "Abstract available soon"
