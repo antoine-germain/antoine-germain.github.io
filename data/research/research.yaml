@@ -1,16 +1,18 @@
+workingpapers: 
+- title : "1. Basic income versus fairness: redistribution with inactive agents [NEW! July 2023]"
+  pdflink : "https://dial.uclouvain.be/pr/boreal/en/object/boreal%3A277040/datastream/PDF_01/view"
+  abstract : > 
+      This paper studies redistributive transfers between inactive, unemployed and employed agents. In a model with fully heterogeneous preferences and arbitrarily unequal skills, labor market inactivity arises from home production and disutility of participation. The social objective champions the ethics of equality of opportunity while upholding the Pareto principle. In the Mirrleesian second-best, it turns out that welfare analysis is reduced to a sufficient statistic. Its empirical application suggests that an inactivity benefit would not be welfare-improving in most high-income countries. Overall, the equity gains of introducing a basic income with respect to equality of opportunity are tenuous, whatever its efficiency costs.
+      
+
 worksinprogress:
 
-- title : "1. Basic income versus fairness: redistribution with inactive agents [NEW! April 2023]"
-  pdflink : "https://antoine-germain.github.io/research/basic_income_v_fairness.pdf"
-  abstract : > 
-      This paper studies redistributive transfers between inactive, unemployed and employed agents. In a model with fully heterogeneous preferences and arbitrarily unequal skills, labor market inactivity arises from home production and disutility of participation. The social objective champions the ethics of equality of opportunity while upholding the Pareto principle. In the Mirrleesian second-best, welfare analysis is reduced to a sufficient statistic. Its empirical application suggests that an inactivity benefit would not be welfare-improving in most high-income countries. Overall, the equity gains of introducing a basic income with respect to equality of opportunity are tenuous, whatever its efficiency costs.
-      
-- title : "2. Fair savings taxation"
+- title : "2. A fairness justification for average reference prices"
   book : "Abstract available soon"	
   # abstract : >
   #  How can we tax savings, be they wealth, estate or property, in a fair way? I study redistributive taxation of labour incomes and savings in a model where agents are heterogeneous in their discount rates, preferences for leisure, productivities and capital stocks. The Paretian social objective is pinned down by axioms championing two fairness principles: (1) agents should not be penalized for their propensity to save but (2) should be compensated if they cannot save. In turn, the social welfare function prioritizes a well-being measure that is orthogonal to the saving rate but favors the hardworking poors with the smallest capital stock. In the second best, there is a threshold (below) above which savings taxation is (un)desirable. Overall, the paper provides a fairness rationale for the use of exemption thresholds in the taxation of wealth, estate, or property but also for energy or housing policies. 
 
-- title : "3. Gender equality and optimal parental leave policies"
+- title : "3. Minimum leisure and minimum wages"
   book : "Abstract available soon"	
   
 #{{/* a comment  - title : "Laissez-faire versus Separability"
