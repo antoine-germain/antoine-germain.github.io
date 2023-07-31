@@ -29,7 +29,7 @@
     {{$index:= $.Scratch.Get "count" }}
     {{ $other_text := .other_text }} 
 
-       {{ with .book_edited }}<span style="margin:5px 0px 5px 0px;">in <em>{{ . }}</em></span>{{ end }}<em>{{ .book }}, {{ .year }} </em>
+     <!--  {{ with .book_edited }}<span style="margin:5px 0px 5px 0px;">in <em>{{ . }}</em></span>{{ end }}<em>{{ .book }}, {{ .year }} </em> -->
 
     <p>
         <h4 style="margin:20px 0px 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
