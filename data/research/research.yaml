@@ -28,12 +28,13 @@ worksinprogress:
 # book : "Abstract available soon"     */}}
 
 talks:
+
 - title : "Public Finance Seminar"
   book : "University of California, Berkeley"
   year : "2023"
   note : "October 9"
 
-  - title : "IRLE Seminar Series"
+- title : "IRLE Seminar Series"
   book : "University of California, Berkeley"
   year : "2023"
   note : "September 13"
