@@ -42,14 +42,15 @@
 <p class="sidebar"><a class="sidebar" href="https://www.frs-fnrs.be/en/le-fnrs/missions-du-fnrs">National Fund for Scientific Research</a></p>
 <p class="sidebar"><a class="sidebar" href="https://uclouvain.be/en/research-institutes/lidam">LIDAM, UCLouvain</a></p>
 
+{{ end }}
+{{ end }}
+
+
 {{ with .Site.Params.logo }}
 {{ if (eq "Homepage" ($.Scratch.Get "currentPageTitle")) }}
 <img src="{{ . | relURL }}" alt="Logo" height="0px" style="padding-bottom: 3em;"/>
 {{ else }}
 <img class="nothomepage" src="{{ . | relURL }}" alt="Logo" height="0px" style="padding-bottom: 3em;"/>
 
-
-{{ end }}
-{{ end }}
 
 
