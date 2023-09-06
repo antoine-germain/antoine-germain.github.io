@@ -1,36 +1,44 @@
 {{ define "main" -}}
-
 <style>
   .container {
     display: flex;
-    flex-direction: column; /* Stack items on small screens */
-    align-items: right;
-    justify-content: right
+    flex-direction: row; /* Display as two columns on larger screens */
+    align-items: center; /* Center items vertically */
+    text-align: center; /* Center text horizontally */
+    justify-content: center; /* Center items horizontally */
   }
+
   img {
-    max-width: 30%; /* Make the image responsive */
+    max-width: 100%; /* Make the image responsive */
     height: auto; /* Automatically adjust height to maintain aspect ratio */
   }
+
   .image {
-    flex-basis: 70%;
-    order: 2;
-    margin-top: 20px; /* Add some space between image and text */
+    flex-basis: 50%; /* Each column takes up 50% of the container on larger screens */
+    order: 1; /* Revert to original order for larger screens */
+    margin-right: 20px; /* Add some space between image and text */
   }
+
   .text {
+    flex-basis: 50%; /* Each column takes up 50% of the container on larger screens */
+    order: 2; /* Revert to original order for larger screens */
     padding: 20px; /* Add padding to the text container */
   }
+
   /* Media query for screens smaller than 768px (adjust the value as needed) */
   @media (max-width: 768px) {
     .container {
-      flex-direction: column; /* Stack items on small screens */
+      flex-direction: column; /* Stack items on smaller screens */
     }
-    .image {
-      flex-basis: 100%;
-      order: 1;
+
+    .image,
+    .text {
+      flex-basis: 100%; /* Each column takes up 100% of the container on smaller screens */
+      order: unset; /* Remove the order property to revert to default order */
+      margin-right: 0; /* Remove margin on smaller screens */
     }
   }
 </style>
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-T17ZSHHTDG"></script>
 <script>
