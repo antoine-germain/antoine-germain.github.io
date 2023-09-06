@@ -43,10 +43,10 @@
 <p class="sidebar"><a class="sidebar" href="https://uclouvain.be/en/research-institutes/lidam">LIDAM, UCLouvain</a></p>
 
 {{ with .Site.Params.logo }}
-  {{ if (eq "Homepage" ($.Scratch.Get "currentPageTitle")) }}
-    <img src="{{ . | relURL }}" alt="Logo" style="max-width: 30%;"/>
-  {{ else }}
-    <img class="nothomepage" src="{{ . | relURL }}" alt="Logo" style="max-width: 30%;"/>
+{{ if (eq "Homepage" ($.Scratch.Get "currentPageTitle")) }}
+<img src="{{ . | relURL }}" alt="Logo" height="0px" style="padding-bottom: 3em;"/>
+{{ else }}
+<img class="nothomepage" src="{{ . | relURL }}" alt="Logo" height="0px" style="padding-bottom: 3em;"/>
 
 
 {{ end }}
