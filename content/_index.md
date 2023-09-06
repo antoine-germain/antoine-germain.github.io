@@ -12,7 +12,7 @@ My supervisor is [François Maniquet](https://scholar.google.be/citations?user=c
 
 **During Fall 2023, I'll be visiting [IRLE](https://irle.berkeley.edu/) at the [University of California, Berkeley](https://www.econ.berkeley.edu/). Hit me up if you're around!**
 
-My research focuses on public and welfare economics. I'm interested in normative issues related to redistribution policies. 
+My research focuses on public, labor and welfare economics. I'm interested in normative issues related to redistribution policies. 
 
 <!-- I combine insights from the theories of **optimal taxation** and fairness in order to link some normative considerations with practical policy recommandations on the taxation of labour income, capital and bequests. -->
 
