@@ -1,32 +1,19 @@
-  .container {
-    display: flex;
-    flex-direction: column; /* Stack items on small screens */
-    align-items: center; /* Center items horizontally */
-    text-align: center; /* Center text horizontally */
-  }
-  img {
-    max-width: 100%; /* Make the image responsive */
-    height: auto; /* Automatically adjust height to maintain aspect ratio */
-  }
-  .image {
-    flex-basis: 70%;
-    order: 2;
-    margin-top: 20px; /* Add some space between image and text */
-  }
-  .text {
-    padding: 20px; /* Add padding to the text container */
-  }
-  /* Media query for screens smaller than 768px (adjust the value as needed) */
-  @media (max-width: 768px) {
-    .container {
-      flex-direction: column; /* Stack items on small screens */
-    }
-    .image {
-      flex-basis: 100%;
-      order: 1;
-    }
-  }
-</style>
+.container {
+        display: flex;
+        align-items: right;
+        justify-content: right
+      }
+      img {
+        max-width: 400px
+      }
+      .image {
+        flex-basis: 70%;
+        order: 2;
+      }
+      .text {
+  padding-right: 20px;
+}
+    </style>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-T17ZSHHTDG"></script>
 <script>
