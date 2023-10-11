@@ -5,7 +5,10 @@ workingpapers:
   pdflink : "https://antoine-germain.github.io/research/basic_income_v_fairness.pdf"
   abstract : > 
       This paper studies redistributive transfers between inactive, unemployed and employed agents. In a model with fully heterogeneous preferences and arbitrarily unequal skills, labor market inactivity arises from home production and disutility of participation. The social objective champions the ethics of equality of opportunity while upholding the Pareto principle. In the Mirrleesian second-best, it turns out that welfare analysis is reduced to a sufficient statistic. Its empirical application suggests that an inactivity benefit would not be welfare-improving in most high-income countries. Overall, the equity gains of introducing a basic income with respect to equality of opportunity are tenuous, whatever its efficiency costs.
-
+  links :
+   - url : "https://vimeo.com/873437966?share=copy"
+     text : "Video 45' presentation UC Berkeley"
+     
 
 worksinprogress:
 
