@@ -34,7 +34,7 @@
     <p>
         <h4 style="margin:20px 0px 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title }}{{ with .pdflink }}</a>{{ end }}</h4>
 
-	{{ with .video }}<a href="{{ . }}" target="blank">Video</a>{{ end }}
+	<p style="margin:5px 0px 5px 0px;">{{ with .video }}<a href="{{ . }}" target="blank">Video</a>{{ end }}</p>
         
         {{ with .coauthors }}<p style="margin:5px 0px 5px 0px;">(with {{ . }})</p>{{ end }}
 
