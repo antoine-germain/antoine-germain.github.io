@@ -6,11 +6,11 @@ sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 languages:
 en:
-  languageName: "English"
-  contentDir: "content/en"
+languageName: "English"
+contentDir: "content/en"
 fr:
-  languageName: "Français"
-  contentDir: "content/fr"
+languageName: "Français"
+contentDir: "content/fr"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 baseURL = "https://antoine-germain.github.io"
 
