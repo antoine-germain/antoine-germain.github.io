@@ -447,6 +447,13 @@ footer {
   bottom: 50px;
   -webkit-font-smoothing: subpixel-antialiased; }
 
+.button {
+    background-color: #0073e6;
+    color: white;
+    padding: 10px 20px; /* Adjust padding as needed */
+    text-decoration: none; /* Remove underline on links */
+    display: inline-block; /* Make it a block element for styling */
+}
 
 @media print, screen and (max-width: 810px) {
 
