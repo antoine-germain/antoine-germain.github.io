@@ -10,7 +10,7 @@ Mon promoteur est [François Maniquet](https://scholar.google.be/citations?user=
 
 **A l'automne 2023, je visiterai l' [Université de Californie à Berkeley](https://www.econ.berkeley.edu/).**
 
-Mes recherches portent sur l'économie publique. J'étudie la désirabilité et les impacts sur le marché du travail des politiques publiques de taxation et de redistribution. Mes travaux traitent notamment du revenu universel, des transferts sociaux, des réductions du temps de travail, des congés payés, de la taxation des héritages. 
+Mes recherches portent sur l'économie publique. J'étudie la désirabilité et les impacts sur le marché du travail des politiques publiques de taxation et de redistribution. Mes travaux traitent notamment du revenu universel, des transferts sociaux, des réductions du temps de travail, des congés payés, ou de la taxation des héritages. 
 
 Mes écrits francophones (non-académiques) sont [ici](https://antoine-germain.github.io/writing). 
 
