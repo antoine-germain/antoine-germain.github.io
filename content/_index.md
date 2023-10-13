@@ -2,12 +2,7 @@
 title = "Homepage"
 +++
 
-<a href="https://antoine-germain.github.io/extras/" class="custom-button">Version francophone</a>
-
-
-## Welcome! I'm Antoine.
-
-
+## Welcome! I'm Antoine.                                                            
 
 I am a E.G. de Barsy Research Fellow at the [National Fund for Scientifc Research-F.N.R.S.](https://www.frs-fnrs.be/en/le-fnrs/missions-du-fnrs) and a PhD candidate at CORE/[LIDAM](https://uclouvain.be/en/research-institutes/lidam), UCLouvain. I recently visited [LSE](https://www.lse.ac.uk/economics) as part of the [European Doctoral Program in Economics](https://uclouvain.be/en/research-institutes/lidam/core/edp.html).
 
@@ -32,5 +27,7 @@ Voie du Roman Pays, 34
 Belgium   -->
  
 ## [Click here to download my CV](https://antoine-germain.github.io/germain_cv.pdf)
+
+
 
 
