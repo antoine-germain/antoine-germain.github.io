@@ -8,7 +8,7 @@ Je suis aspirant [FNRS](ttps://www.frs-fnrs.be/en/le-fnrs/missions-du-fnrs) et d
 
 Mon promoteur est [François Maniquet](https://scholar.google.be/citations?user=cQR8M6IAAAAJ&hl=fr).
 
-**A l'automne 2023, je visiterai l'[Université de Californie à Berkeley](https://www.econ.berkeley.edu/).**
+**A l'automne 2023, je visiterai l' [Université de Californie à Berkeley](https://www.econ.berkeley.edu/).**
 
 Mes recherches portent sur l'économie publique. J'étudie la désirabilité et les impacts sur le marché du travail des politiques publiques de taxation et de redistribution. Mes travaux traitent notamment du revenu universel, des transferts sociaux, des réductions du temps de travail, des congés payés, de la taxation des héritages. 
 
