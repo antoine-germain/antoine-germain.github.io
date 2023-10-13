@@ -47,19 +47,24 @@
   gtag('js', new Date());
   gtag('config', 'G-T17ZSHHTDG');
 </script>
-  <body>
+ <body>
     <div class="container">
       <div class="image">
         <img src="https://raw.githubusercontent.com/antoine-germain/antoine-germain.github.io/main/content/pic2022.webp">
       </div>
       <div class="text">
         <h1>
-          {{ .Content }} 
+          <ul>
+            {{ range .Pages }}
+            <li>{{ .Content }}</li>
+            {{ end }}
+          </ul>
           <div style="text-align: right;">
-        <a href="https://antoine-germain.github.io/" class="custom-button">EN version</a> 
+            <a href="https://antoine-germain.github.io/" class="custom-button">EN version</a>
           </div>
         </h1>
       </div>
     </div>
-</body>
+ </body>
 {{- end }}
+
