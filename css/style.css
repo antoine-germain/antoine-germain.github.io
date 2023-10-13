@@ -455,6 +455,16 @@ footer {
     display: inline-block; /* Make it a block element for styling */
 }
 
+.custom-button {
+    background-color: white;
+    color: black;
+    border: 1px solid #333; /* Light black border */
+    padding: 10px 20px; /* Adjust padding as needed */
+    text-decoration: none; /* Remove underline on links */
+    display: inline-block; /* Make it a block element for styling */
+    border-radius: 5px; /* Add rounded corners to the button */
+}
+
 @media print, screen and (max-width: 810px) {
 
   body {
