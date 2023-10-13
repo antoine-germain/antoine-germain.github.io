@@ -2,9 +2,9 @@
 title = "Homepage"
 +++
 
-<a href="https://antoine-germain.github.io/extras/" class="button">Version francophone</a>
+<a href="https://antoine-germain.github.io/extras/" class="custom-button">Version francophone</a>
 
-<a href="https://antoine-germain.github.io/extras/" class="button" style="background-color: #0073e6; color: black;">Click Me</a>
+<a href="https://antoine-germain.github.io/extras/" class="custom-button" style="background-color: #0073e6; color: black;">Click Me</a>
 
 
 ## Welcome! I'm Antoine.
