@@ -12,6 +12,7 @@ Mon promoteur est [François Maniquet](https://scholar.google.be/citations?user=
 
 Mes recherches portent sur l'économie publique. J'étudie la désirabilité et les impacts sur le marché du travail des politiques publiques de taxation et de redistribution. Mes travaux traitent notamment du revenu universel, des transferts sociaux, des réductions du temps de travail, des congés payés, de la taxation des héritages. 
 
+Mes écrits francophones (non-académiques) sont [ici](https://antoine-germain.github.io/writing). 
 
 ## Contact
 
