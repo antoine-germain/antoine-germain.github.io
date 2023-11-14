@@ -11,13 +11,15 @@ workingpapers:
 
 worksinprogress:
 
-- title : "2. A fairness justification for average reference prices"
+- title : "2. Why do governments mandate holidays?"
+  book : "Abstract available soon"	
+
+- title : "3. A fairness justification for average reference prices"
   book : "Abstract available soon"	
   # abstract : >
   #  How can we tax savings, be they wealth, estate or property, in a fair way? I study redistributive taxation of labour incomes and savings in a model where agents are heterogeneous in their discount rates, preferences for leisure, productivities and capital stocks. The Paretian social objective is pinned down by axioms championing two fairness principles: (1) agents should not be penalized for their propensity to save but (2) should be compensated if they cannot save. In turn, the social welfare function prioritizes a well-being measure that is orthogonal to the saving rate but favors the hardworking poors with the smallest capital stock. In the second best, there is a threshold (below) above which savings taxation is (un)desirable. Overall, the paper provides a fairness rationale for the use of exemption thresholds in the taxation of wealth, estate, or property but also for energy or housing policies. 
 
-- title : "3. Minimum leisure and minimum wages"
-  book : "Abstract available soon"	
+
 
 
 
