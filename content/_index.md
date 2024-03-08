@@ -4,7 +4,7 @@ title = "Homepage"
 
 ## Welcome! I'm Antoine.                                                            
 
-I am a PhD candidate at  CORE/[LIDAM](https://uclouvain.be/en/research-institutes/lidam), UCLouvain and [FNRS](https://www.frs-fnrs.be/en/le-fnrs/missions-du-fnrs). I recently visited the economics departments at [LSE](https://www.lse.ac.uk/economics) (as part of the [European Doctoral Program](https://www.edpqe.eu/)) and the [University of California, Berkeley](https://www.econ.berkeley.edu/)
+I am a PhD candidate at [UCLouvain](https://uclouvain.be/en/research-institutes/lidam) and [FNRS](https://www.frs-fnrs.be/en/le-fnrs/missions-du-fnrs). I recently visited the economics departments at [LSE](https://www.lse.ac.uk/economics) (as part of the [European Doctoral Program](https://www.edpqe.eu/)) and the [University of California, Berkeley](https://www.econ.berkeley.edu/)
 
 My supervisor is [François Maniquet](https://scholar.google.be/citations?user=cQR8M6IAAAAJ&hl=fr).
 
