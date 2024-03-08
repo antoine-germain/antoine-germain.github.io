@@ -9,7 +9,7 @@ weight = 1
 
 **Graduate tutorials**
 
-Advanced Macroeconomics II: Heterogenous Agents, Dynamics and Policy [ENG] : Prof Oikonomou, Spring 2023
+Advanced Macroeconomics II: Heterogenous Agents, Dynamics and Policy [ENG] : Prof Oikonomou, Spring 2023, Spring 2024
 
 Advanced Microeconomics I - Decision Theory and General Equilibrium [ENG] : Prof. Maniquet, Prof. Panin
 [Fall 20](https://antoine-germain.github.io/2020-2021-Q1-LECON2111_A._Germain_-_Advanced_Microeconomics_I___Decision_and_Game_Theory_-_TP_-_Web.pdf), [Fall 21](https://antoine-germain.github.io/2021-2022-Q1-LECON2111_Advanced_Microeconomics_I__Decision_and_Game_Theory_A.Germain__F.Maniquet.pdf), Fall 22
