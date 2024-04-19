@@ -1,5 +1,4 @@
 {{ define "main" -}}
-{{ .Content }}
 <ul>
     {{ range .Pages }}
     <li><a href="{{ .URL | relURL }}">{{ .Title }}</a>
@@ -15,4 +14,19 @@
 
   gtag('config', 'G-BC43SFNGM8');
 </script>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="https://raw.githubusercontent.com/antoine-germain/antoine-germain.github.io/main/content/pic2024.webp">
+      </div>
+      <div class="text">
+        <h1>
+          {{ .Content }} 
+          <div style="text-align: right;">
+        <a href="https://antoine-germain.github.io" class="custom-button">ENG version</a> 
+          </div>
+        </h1>
+      </div>
+    </div>
+</body>
 {{- end }}
