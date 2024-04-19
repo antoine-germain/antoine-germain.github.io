@@ -361,7 +361,7 @@ img {
 header {
   float: left;
   position: fixed;
-  background: #5280D2;
+  background: #1E417F;
   top: 0px;
   left: 0px;
   bottom: 0px;
@@ -374,7 +374,7 @@ header ul {
   list-style: none;
   height: 40px;
   padding: 0;
-  background: #B0442D;
+  background: #1E417F;
   border-radius: 5px;
   border: 1px solid #e0e0e0;
   width: 270px; }
@@ -394,14 +394,14 @@ header li:last-child a {
 header ul a {
   line-height: 1;
   font-size: 18px;
-  color: #B0442D;
+  color: #1E417F;
   display: block;
   text-align: center;
   padding-top: 6px;
   height: 34px; }
 
 header ul a:hover, header ul a:focus {
-  color: #B0442D;
+  color: #1E417F;
   font-weight: bold; }
 
 header ul a:active {
@@ -418,7 +418,7 @@ header ul li + li + li {
 header ul a strong {
   font-size: 20px;
   display: block;
-  color: #B0442D; }
+  color: #1E417F; }
 
 section {
   position: static;
