@@ -1,4 +1,18 @@
 {{ define "main" -}}
+  <ul>
+    {{ range .Pages }}
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BC43SFNGM8"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-BC43SFNGM8');
+  </script>
   <body>
     <div class="container">
       <div class="image">
@@ -14,19 +28,5 @@
       </div>
     </div>
   </body>
-  <ul>
-    {{ range .Pages }}
-      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-    {{ end }}
-  </ul>
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BC43SFNGM8"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-BC43SFNGM8');
-  </script>
 {{- end }}
 
