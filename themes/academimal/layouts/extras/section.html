@@ -1,9 +1,5 @@
 {{ define "main" -}}
-  <ul>
-    {{ range .Pages }}
-      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-    {{ end }}
-  </ul>
+
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-BC43SFNGM8"></script>
   <script>
@@ -14,6 +10,11 @@
     gtag('config', 'G-BC43SFNGM8');
   </script>
   <body>
+    <ul>
+    {{ range .Pages }}
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
     <div class="container">
       <div class="image">
         <img src="https://raw.githubusercontent.com/antoine-germain/antoine-germain.github.io/main/content/pic2024.webp">
