@@ -1,21 +1,26 @@
 
 workingpapers: 
 
-- title : "1. Basic income versus fairness: redistribution with inactive agents [NEW! July 2023]"
-  pdflink : "https://antoine-germain.github.io/research/basic_income_v_fairness.pdf"
+- title : "1. Basic income versus fairness: redistribution with inactive agents [NEW! February 2024]"
+  pdflink : "https://antoine-germain.github.io/research/basic_income.pdf"
   video : "https://vimeo.com/873437966?share=copy"
   abstract : > 
-      This paper studies redistributive transfers between inactive, unemployed and employed agents. In a model with fully heterogeneous preferences and arbitrarily unequal skills, labor market inactivity arises from home production and disutility of participation. The social objective champions the ethics of equality of opportunity while upholding the Pareto principle. In the Mirrleesian second-best, it turns out that welfare analysis is reduced to a sufficient statistic. Its empirical application suggests that an inactivity benefit would not be welfare-improving in most high-income countries. Overall, the equity gains of introducing a basic income with respect to equality of opportunity are tenuous, whatever its efficiency costs.
+      Philosophers diverge on whether redistributive transfers to able-bodied inactives would be fair. This paper evaluates their claims. Labor markets feature multidimensional heterogeneity in leisure preferences, disutilities of participation, wages and home production. The social objective champions the ethics of equality of opportunity while upholding the Pareto principle. In the Mirrleesian second-best, it turns out that welfare analysis is reduced to a sufficient statistic. Its empirical application suggests that an inactivity benefit would not be welfare-improving in most high-income countries. Overall, the equity gains of introducing a basic income with respect to equality of opportunity are tenuous, whatever its efficiency costs.
   
      
 
 worksinprogress:
 
-- title : "2. Why do governments mandate holidays?"
+- title : "2. Working time regulations and redistribution"
+  book : " All countries except the US are mandating paid time off. Why? In standard labor supply models, working time regulations are inefficient as they clash with individuals' own choices. In this paper, I provide a novel welfare analysis of any working time regulations. Labor is unbundled into jobs and hours worked while firms are controlling schedules. Hence, the paper allows to study the co-movement of employment, wages and hours worked. I find that careful combinations of minimum wages and working time reductions erode monopsony power and may redistribute efficiently from firms' positive profits to workers' welfare. I disaggregate these welfare gains and losses in a model with directed search and matching frictions. I show that the elasticity of profits and employment to the reform are sufficient statistics for welfare evaluation. "	
+
+- title : "3. Average money-metrics and equality of opportunity"
   book : "Abstract available soon"	
 
-- title : "3. A fairness justification for average reference prices"
-  book : "Abstract available soon"	
+- title : "4. Cyclical monopsony power and taxation"
+  coauthors : Rigas Oikonomou
+  book : "Abstract available soon" 
+ 
   # abstract : >
   #  How can we tax savings, be they wealth, estate or property, in a fair way? I study redistributive taxation of labour incomes and savings in a model where agents are heterogeneous in their discount rates, preferences for leisure, productivities and capital stocks. The Paretian social objective is pinned down by axioms championing two fairness principles: (1) agents should not be penalized for their propensity to save but (2) should be compensated if they cannot save. In turn, the social welfare function prioritizes a well-being measure that is orthogonal to the saving rate but favors the hardworking poors with the smallest capital stock. In the second best, there is a threshold (below) above which savings taxation is (un)desirable. Overall, the paper provides a fairness rationale for the use of exemption thresholds in the taxation of wealth, estate, or property but also for energy or housing policies. 
 
