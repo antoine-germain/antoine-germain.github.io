@@ -9,26 +9,25 @@
         <h1>
           {{ .Content }} 
           <div style="text-align: right;">
-        <a href="https://antoine-germain.github.io" class="custom-button">ENG version</a> 
+            <a href="https://antoine-germain.github.io" class="custom-button">ENG version</a> 
           </div>
         </h1>
       </div>
     </div>
-</body>
-<ul>
+  </body>
+  <ul>
     {{ range .Pages }}
-    <li><a href="{{ .URL | relURL }}">{{ .Title }}</a>
-    </li>
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
     {{ end }}
-</ul>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-BC43SFNGM8"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  </ul>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BC43SFNGM8"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-  gtag('config', 'G-BC43SFNGM8');
-</script>
-
+    gtag('config', 'G-BC43SFNGM8');
+  </script>
 {{- end }}
+
