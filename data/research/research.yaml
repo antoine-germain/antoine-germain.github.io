@@ -39,10 +39,35 @@ worksinprogress:
 
 talks:
 
+- title : "EALE Conference"
+  book : "NHH Bergen"
+  year : "2024"
+
+- title : "EEA Congress"
+  book : "Erasmus University Rotterdam"
+  year : "2024"
+
+- title : "80th Congress of the IIPF"
+  book : "Prague VSE"
+  year : "2024"
+
+- title : "Social Choice and Welfare Congress"
+  book : "Paris School of Economics"
+  year : "2024"
+
+- title : "LAGV"
+  book : "Aix-Marseille"
+  year : "2024"
+
 - title : "EDP Jamboree"
   book : "Universtitat Pompeu Fabra"
   year : "2024"
   note : "June 6"
+
+ - title : "Doctoral Workshop"
+  book : "UCLouvain"
+  year : "2024"
+  note : "May 31" 
 
 - title : "EAYE Annual Meeting"
   book : "Paris School of Economics"
