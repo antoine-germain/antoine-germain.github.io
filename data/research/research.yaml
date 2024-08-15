@@ -1,7 +1,7 @@
 
 workingpapers: 
 
-- title : "1. Basic income versus fairness: redistribution with inactive agents [NEW! February 2024]"
+- title : "1. Basic income versus fairness: redistribution with inactive agents [R&R Journal of Public Economics]"
   pdflink : "https://antoine-germain.github.io/research/basic_income.pdf"
   video : "https://vimeo.com/873437966?share=copy"
   abstract : > 
@@ -18,9 +18,9 @@ worksinprogress:
 - title : "3. Average money-metrics and equality of opportunity"
   book : "Abstract available soon"	
 
-- title : "4. Cyclical monopsony power and taxation"
-  coauthors : Rigas Oikonomou
-  book : "Abstract available soon" 
+# title : "4. Cyclical monopsony power and taxation"
+  #coauthors : Rigas Oikonomou
+  # book : "Abstract available soon" 
  
   # abstract : >
   #  How can we tax savings, be they wealth, estate or property, in a fair way? I study redistributive taxation of labour incomes and savings in a model where agents are heterogeneous in their discount rates, preferences for leisure, productivities and capital stocks. The Paretian social objective is pinned down by axioms championing two fairness principles: (1) agents should not be penalized for their propensity to save but (2) should be compensated if they cannot save. In turn, the social welfare function prioritizes a well-being measure that is orthogonal to the saving rate but favors the hardworking poors with the smallest capital stock. In the second best, there is a threshold (below) above which savings taxation is (un)desirable. Overall, the paper provides a fairness rationale for the use of exemption thresholds in the taxation of wealth, estate, or property but also for energy or housing policies. 
