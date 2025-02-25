@@ -39,6 +39,26 @@ worksinprogress:
 
 talks:
 
+- title : "JM seminar"
+  book : "THEMA, CY Paris-Cergy Université"
+  year : "2025"
+  note : "January 21"
+
+ - title : "CEREC seminar"
+  book : "UCLouvain Saint-Louis"
+  year : "2025"
+  note : "January 17"
+
+- title : "JM seminar"
+  book : "Université Laval"
+  year : "2025"
+  note : "January 14"
+
+- title : "JM seminar"
+  book : "Tor Vergata"
+  year : "2025"
+  note : "January 10"
+
 - title : "CRED Seminar"
   book : "UNamur"
   year : "2024"
