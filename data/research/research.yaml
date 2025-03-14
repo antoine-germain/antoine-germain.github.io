@@ -39,6 +39,11 @@ worksinprogress:
 
 talks:
 
+- title : "Brown bag seminar"
+  book : "CORE"
+  year : "2025"
+  note : "March 19"
+  
 - title : "JM seminar"
   book : "THEMA, CY Paris-Cergy Université"
   year : "2025"
