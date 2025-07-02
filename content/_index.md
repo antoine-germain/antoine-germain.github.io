@@ -4,7 +4,7 @@ title = "Homepage"
 
 ## Welcome! I'm Antoine.                                                            
 
-I am a postdoctoral fellow at the [University of Pennsylvania School of Social Policy and Practice](https://sp2.upenn.edu/). I hold a PhD in Economics from [CORE/LIDAM, UCLouvain](https://uclouvain.be/en/research-institutes/lidam) obtained in June 2025 as part of the [European Doctoral Program](https://www.edpqe.eu/)). I recently visited the economics departments of LSE, UC Berkeley and UNamur.
+I am a postdoctoral fellow at the [University of Pennsylvania School of Social Policy and Practice](https://sp2.upenn.edu/). I hold a PhD in Economics from [CORE/LIDAM, UCLouvain](https://uclouvain.be/en/research-institutes/lidam)  obtained in June 2025 as part of the [European Doctoral Program](https://www.edpqe.eu/). 
 
 My research fields are public economics and labor economics. I study the welfare consequences of redistribution policies in labor markets. 
 
