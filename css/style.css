@@ -281,22 +281,19 @@ h2 {
 h3, h4, h5, h6 {
   color: #494949; }
 
-a.sidebar {
-  color: #fff;
-  text-decoration: none; 
-  margin-top: -50px;
-  word-break: break-word; }
+a.sidebar, a.sidebar small {
+  color: #222 !important;
+  text-decoration: none;
+}
 
 a.sidebar:hover, a.sidebar:focus {
-  color: #046; }
+  color: #000;
+}
 
 a.sidebar small {
-  font-size: 25px;
-  color: #fff;
-  display: inline-block; }
-
-a.sidebar:hover small {
-  color: #046; }
+  font-size: 20px;
+  display: inline-block;
+}
 
 p.sidebar {
   margin-top: -10px;}
@@ -361,14 +358,17 @@ img {
 header {
   float: left;
   position: fixed;
-  background: #1E417F;
-  top: 0px;
-  left: 0px;
-  bottom: 0px;
+  background: #fdfdfd;  /* Light gray to blend with white background */
+  color: #222;
+  top: 0;
+  left: 0;
+  bottom: 0;
   padding: 2.5vw;
   width: 20vw;
   height: 100vh;
-  -webkit-font-smoothing: subpixel-antialiased; }
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
 
 header ul {
   list-style: none;
