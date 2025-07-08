@@ -238,9 +238,11 @@
 body {
   background-color: #fff;
   margin: 0;
-  font: 18px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #5e5e5e;
-  font-weight: 400; }
+  font: 18px/1.6 Georgia, serif;
+  color: #222;  /* Slightly darker, more readable */
+  font-weight: 400;
+}
+
 
 h1, h2, h3, h4, h5, h6 {
   color: #222;
