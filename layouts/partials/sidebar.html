@@ -4,6 +4,8 @@
 <hr/>
 {{ $.Scratch.Set "currentPageTitle" .Title }} --> 
 
+<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
+
 <p class="sidebar"><a class="sidebar" href="{{ "research" | relURL }}">Research</a></p>
 {{ if and (eq "Research" ($.Scratch.Get "currentPageTitle")) (eq "Research" .Title) }}
 	<p class="sidebar" style="margin-left:2vw;"><a class="sidebar" href="{{ "research/#WorkingPapers" | relURL }}">Working papers</a></p>
