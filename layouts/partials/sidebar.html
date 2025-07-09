@@ -1,8 +1,8 @@
 <h1 class="sidebar"><a class="sidebar" href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
-<h1 style="font-size:20px; font-style:italic;">{{ .Site.Params.title }} <br/>
+<!--<h1 style="font-size:20px; font-style:italic;">{{ .Site.Params.title }} <br/>
 {{ .Site.Params.institution }}</h1>
 <hr/>
-{{ $.Scratch.Set "currentPageTitle" .Title }}
+{{ $.Scratch.Set "currentPageTitle" .Title }} --> 
 
 <p class="sidebar"><a class="sidebar" href="{{ "research" | relURL }}">Research</a></p>
 {{ if and (eq "Research" ($.Scratch.Get "currentPageTitle")) (eq "Research" .Title) }}
@@ -24,7 +24,7 @@
 </a></p>
 <p class="sidebar">
 	<img src="{{ "/icons/twitter-white.png" | relURL }}" class="octicons">
-<a class="sidebar" href="https://twitter.com/{{ .Site.Params.Twitter }}" target="_blank">
+<a class="sidebar" href="https://x.com/{{ .Site.Params.Twitter }}" target="_blank">
 @{{ .Site.Params.Twitter }}
 </a></p>
 <p class="sidebar">
