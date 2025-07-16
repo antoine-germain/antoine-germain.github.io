@@ -1,7 +1,7 @@
 
 workingpapers: 
 
-- title : "1. [JMP] Basic income versus fairness: redistribution with inactive agents"
+- title : "1. Basic income versus fairness: redistribution with inactive agents"
   pdflink : "https://antoine-germain.github.io/research/basic_income.pdf"
   video : "https://vimeo.com/873437966?share=copy"
   abstract : > 
@@ -10,12 +10,12 @@ workingpapers:
     
 worksinprogress:
 
-- title : "2. Working time regulations and monopsony power"
+- title : "2. Working time regulations and monopsony power [NEW!]"
   pdflink : "https://antoine-germain.github.io/research/germain_WTR.pdf"
   abstract : >
        This paper studies the consequences of working time reductions when labor markets may be monopsonistic. In a general equilibrium model that unbundles labor inputs into hours and jobs, I show that the marginal utility of a small working time reduction is zero in perfect competition but may be positive in monopsony. However, the policy increases wage rates in perfect competition but decreases monopsonistic wage rates. I test these predictions empirically by evaluating the first-ever working time reduction in Belgium: the maximum 9h workday in 1910's coal mines. I find that the policy had sizable negative effects on profits, employment and earnings. To assess welfare, I generalize the findings to a directed search model with matching frictions where firms have heterogeneous productivity. Utilitarian welfare is expressed in terms of a sufficient statistic whose application to the 1910 reform suggests that the value of leisure was particularly large.   
 
-- title : "3. Consumer welfare beyond GDP"
+- title : "3. Consumer welfare beyond GDP [NEW!]"
   pdflink : "https://antoine-germain.github.io/research/germain_beyondGDP.pdf"
   abstract : >
        This paper builds axiomatically a measure of consumer welfare in a general consumption space where agents may differ in their preferences, endowments and prices. The axioms reflect the ethics of equality of opportunity: unequal budgets create welfare-relevant inequalities but heterogeneous preferences do not. When combined with an appropriate cross-economy robustness condition, these axioms single out a consumer welfare measure. Like aggregate consumption in national accounts, this measure sums up individual expenditure functions. Unlike national accounts, these functions are evaluated at a common price vector for all individuals. I show that standard measures of cost of living, standards of living, and purchasing power parity can be modified to reflect welfare as equality of opportunity without additional data.
