@@ -7,13 +7,12 @@ workingpapers:
   abstract : > 
       Philosophers diverge on whether redistributive transfers to able-bodied inactives would be fair. This paper evaluates their claims. Labor markets feature multidimensional heterogeneity in leisure preferences, disutilities of participation, wages and home production. The social objective champions the ethics of equality of opportunity while upholding the Pareto principle. In the Mirrleesian second-best, it turns out that welfare analysis is reduced to a sufficient statistic. Its empirical application suggests that an inactivity benefit would not be welfare-improving in most high-income countries. Overall, the equity gains of introducing a basic income with respect to equality of opportunity are tenuous, whatever its efficiency costs.
   
+- title : "2. [JMP] Working time regulations and monopsony power [NEW!]"
+  pdflink : "https://antoine-germain.github.io/research/Germain_JMP.pdf"
+  abstract : >
+       This paper studies the consequences of working time reductions when labor markets may be monopsonistic. A toy model shows that the marginal utility of a small working time reduction is negative when workers control schedules but positive when firms set hours. However, the policy increases wage rates in perfect competition but decreases monopsonistic wage rates. I use newly-digitized datasets to test these predictions empirically by evaluating the first-ever working time reduction in Belgium: the maximum 9h workday in 1910's coal mines. I find that the policy had sizable negative yet short-lived effects on profits, positive effects on employment and negative effect on earnings. Hourly wages decrease in small firms but increase in large firms. I rationalize these findings in a directed search model with matching frictions where firms have heterogeneous productivity, post wages and hours, and use both jobs and hours as inputs. Utilitarian welfare is expressed in terms of a sufficient statistic whose application to the 1910 reform suggests an unambiguous welfare improvement. 
     
 worksinprogress:
-
-- title : "2. Working time regulations and monopsony power [NEW!]"
-  pdflink : "https://antoine-germain.github.io/research/germain_WTR.pdf"
-  abstract : >
-       This paper studies the consequences of working time reductions when labor markets may be monopsonistic. In a general equilibrium model that unbundles labor inputs into hours and jobs, I show that the marginal utility of a small working time reduction is zero in perfect competition but may be positive in monopsony. However, the policy increases wage rates in perfect competition but decreases monopsonistic wage rates. I test these predictions empirically by evaluating the first-ever working time reduction in Belgium: the maximum 9h workday in 1910's coal mines. I find that the policy had sizable negative effects on profits, employment and earnings. To assess welfare, I generalize the findings to a directed search model with matching frictions where firms have heterogeneous productivity. Utilitarian welfare is expressed in terms of a sufficient statistic whose application to the 1910 reform suggests that the value of leisure was particularly large.   
 
 - title : "3. Consumer welfare beyond GDP [NEW!]"
   pdflink : "https://antoine-germain.github.io/research/germain_beyondGDP.pdf"
