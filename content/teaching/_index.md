@@ -7,6 +7,15 @@ weight = 1
 
 *Click on the date to get students' evaluations! *
 
+**Lecturer**
+University of Pennsylvania, School of Social Policy and Practice
+Master of Science in Social Policy
+Economics for Social Policy [ENG] : Fall 2025
+
+UCLouvain
+PhD in Economics and MRes in Economics
+Ethics and Social Choice [ENG] : Fall 2024
+
 **Graduate tutorials**
 
 Advanced Macroeconomics II: Heterogenous Agents, Dynamics and Policy [ENG] : Prof Oikonomou, Spring 2023, Spring 2024
