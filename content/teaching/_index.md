@@ -12,9 +12,9 @@ weight = 1
 _Master of Science in Social Policy_    
 Economics for Social Policy [ENG] : Fall 2025     
 
-*UCLouvain*
-*PhD in Economics and MRes in Economics*
-Ethics and Social Choice [ENG] : Fall 2024
+*UCLouvain*   
+*PhD in Economics and MRes in Economics*  
+Ethics and Social Choice [ENG] : Fall 2024   
 
 **Graduate tutorials**
 
