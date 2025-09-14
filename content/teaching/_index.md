@@ -7,13 +7,13 @@ weight = 1
 
 *Click on the date to get students' evaluations! *
 
-**Lecturer**
-University of Pennsylvania, School of Social Policy and Practice
-Master of Science in Social Policy
-Economics for Social Policy [ENG] : Fall 2025
+**Lecturer**    
+*University of Pennsylvania, School of Social Policy and Practice.*  
+_Master of Science in Social Policy_    
+Economics for Social Policy [ENG] : Fall 2025     
 
-UCLouvain
-PhD in Economics and MRes in Economics
+*UCLouvain*
+*PhD in Economics and MRes in Economics*
 Ethics and Social Choice [ENG] : Fall 2024
 
 **Graduate tutorials**
