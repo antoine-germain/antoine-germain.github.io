@@ -6,7 +6,7 @@ workingpapers:
   abstract : >
       This paper studies the consequences of working time reductions in general equilibrium. I use newly digitized datasets to evaluate one of the first-ever labor regulations in Belgium: a maximum 9-hour workday in coal mines in 1910. The reform substantially reduced firms’ profits. On average, hourly wages and employment increased. However, these effects were size-dependent: hourly wages decreased in small firms, while all employment gains are concentrated in large firms.  I argue that these results are inconsistent with three common assumptions: (i) workers choose hours, (ii) competitive wages, and (iii) jobs and hours enter multiplicatively in the production function.  I rationalize these results in a directed search model where firms with heterogeneous TFP post vacancies, hours and wages internalizing workers' leisure preferences. Monopsony power leads to long hours. Either a firm reacts to the reform by increasing wages to substitute lost hours with new hires, or it cuts wages to restore markdowns. Which mechanism dominates depends on firm size, even holding monopsony power constant. Welfare analysis with sufficient statistics suggests that the 1910 reform redistributed from firms' profits to workers' welfare.
 
-- title : "1. Basic income versus fairness: redistribution with inactive agents"
+- title : "1. Basic income versus fairness: redistribution with inactive agents (Revision requested JPubE, 2nd round)"
   pdflink : "https://antoine-germain.github.io/research/basic_income.pdf"
   video : "https://vimeo.com/873437966?share=copy"
   abstract : > 
