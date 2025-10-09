@@ -8,7 +8,7 @@ I am a postdoctoral fellow at the [University of Pennsylvania School of Social P
 
 I am on the 2025-2026 **academic job market** and available for interviews at ASSA and EEA meetings. 
 
-My research fields are public economics, labor economics and social choice theory. I study the welfare consequences of labor market policies using both theory and empirics.  
+My research fields are public economics, labor economics and social choice theory. My research evaluates public policies when (1) agents have heterogeneous tastes and (2) labor markets are imperfect.
 
 ## Contact
 
