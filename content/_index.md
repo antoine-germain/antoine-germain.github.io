@@ -6,9 +6,9 @@ title = "Homepage"
 
 I am a postdoctoral fellow at the [University of Pennsylvania School of Social Policy and Practice](https://sp2.upenn.edu/). I hold a PhD in Economics from [CORE/LIDAM, UCLouvain](https://uclouvain.be/en/research-institutes/lidam)  obtained in June 2025 as part of the [European Doctoral Program](https://www.edpqe.eu/). 
 
-I am on the 2025-2026 **academic job market** and available for interviews at ASSA and EEA meetings. 
+I am on the 2025-2026 **academic job market** and available for interviews. 
 
-My research fields are public economics, labor economics and social choice theory. I evaluate public policies when agents have heterogeneous tastes or when labor markets are imperfect.
+My research fields are public economics, labor economics and social choice theory. I evaluate public policies when agents have heterogeneous tastes and when labor markets are imperfect.
 
 ## Contact
 
