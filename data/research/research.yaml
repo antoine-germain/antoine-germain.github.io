@@ -45,6 +45,46 @@ worksinprogress:
 
 talks:
 
+- title : "Job market seminar"
+  book : "CREST, ENSAI "
+  year : "2026"
+  note : "January 29"
+
+  - title : "Job market seminar"
+  book : "CUNEF "
+  year : "2026"
+  note : "January 27"
+
+  - title : "Job market seminar"
+  book : "BI Norwegian Business School"
+  year : "2026"
+  note : "January 23"
+
+  - title : "Job market seminar"
+  book : "Université libre de Bruxelles "
+  year : "2026"
+  note : "January 21"
+
+  - title : "Job market seminar"
+  book : "THEMA, CY Cergy-Paris Université"
+  year : "2026"
+  note : "January 20"
+
+  - title : "Job market seminar"
+  book : "Aix-Marseille School of Economics"
+  year : "2026"
+  note : "January 13"
+
+  - title : "Job market seminar"
+  book : "RFBerlin "
+  year : "2026"
+  note : "January 12"
+
+  - title : "Job market seminar"
+  book : "Université de Montréal "
+  year : "2026"
+  note : "January 9"
+  
 - title : "Empirical Micro Lunch"
   book : "UPenn Economics "
   year : "2025"
@@ -65,7 +105,7 @@ talks:
   year : "2025"
   note : "March 19"
   
-- title : "JM seminar"
+- title : "Job market seminar"
   book : "THEMA, CY Paris-Cergy Université"
   year : "2025"
   note : "January 21"
@@ -75,12 +115,12 @@ talks:
   year : "2025"
   note : "January 17"
 
-- title : "JM seminar"
+- title : "Job market seminar"
   book : "Université Laval"
   year : "2025"
   note : "January 14"
 
-- title : "JM seminar"
+- title : "Job market seminar"
   book : "Tor Vergata"
   year : "2025"
   note : "January 10"
