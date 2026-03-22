@@ -1,5 +1,5 @@
 ## Working Papers
-### 4. [Consumer welfare beyond GDP](https://antoine-germain.github.io/research/germain_beyondGDP.pdf)
+### 4. [Consumer welfare beyond GDP](https://antoine-germain.github.io/assets/germain_beyondGDP.pdf)
 May 2025
 <details class="abstract">
   <summary> Abstract </summary>
@@ -16,7 +16,7 @@ Top income shares are easy to compute and interpret, yet they violate the Pigou-
 We show that there is only one top income share that minimizes Pigou-Dalton violations while leading to a reasonable social welfare function: the income share of those earning more than the average income above and beyond their population share. We compute the joint evolution of inequality and social welfare globally, which reveals new patterns. For instance, American and French social welfare are identical in levels and dynamics despite opposite trends in growth and inequality.
 </details>
 
-### 2. [Working time regulations and monopsony power](https://antoine-germain.github.io/research/Germain_JMP.pdf)
+### 2. [Working time regulations and monopsony power](https://antoine-germain.github.io/assets/Germain_JMP.pdf)
 November 2025
 <details class="abstract">
   <summary> Abstract </summary>
@@ -26,7 +26,7 @@ I use newly digitized micro datasets to evaluate one of the first-ever labor reg
 </details>
 
 
-### 1. [Basic income versus fairness: redistribution with inactive agents](https://antoine-germain.github.io/research/basic_income.pdf) (R&R JPubE, 2nd round) 
+### 1. [Basic income versus fairness: redistribution with inactive agents](https://antoine-germain.github.io/assets/basic_income.pdf) (R&R JPubE, 2nd round) 
 February 2026 - [Seminar video](https://vimeo.com/873437966?share=copy)
   
  <details class="abstract">
@@ -40,7 +40,7 @@ I study redistribution between inactive, unemployed, and employed agents who are
 ### The government as a labor market competitor 
 with [Ioana Marinescu](https://marinescu.eu/)
 
-### Labor market concentration and working conditions 
+### Labor market concentration and working hours 
 with [Jakob Beuschlein](https://www.jakobbeuschlein.com/) and [Patrizia Massner](https://patriziamassner.com/)
 
 
