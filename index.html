@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Antoine Germain</title>
+  <meta name="description" content="Antoine Germain — economics research, papers, teaching." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <div class="title-block">
+        <img class="profile-pic" src="assets/pic2024.jpg" alt="Antoine Germain" />
+
+        <div class="title-text">
+          <h1>Antoine Germain</h1>
+
+          <p class="contact-line">
+            <a class="email" href="mailto:germain1@upenn.edu">germain1@upenn.edu</a>
+          </p>
+
+          <p class="cv-cta">
+            <a class="cv-button" href="assets/germain_CV.pdf">CV (PDF)</a>
+          </p>
+
+          <nav class="icon-links" aria-label="Social links">
+            <a class="icon-link icon-x" href="https://x.com/ant1germain" aria-label="X (Twitter)" title="X">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M18.9 2H22l-6.8 7.8L23 22h-6.8l-5.3-6.6L5 22H2l7.4-8.5L1 2h7l4.8 6.2L18.9 2zm-1.2 18h1.7L6.9 3.9H5.1L17.7 20z"/>
+              </svg>
+            </a>
+
+            <a class="icon-link icon-orcid" href="https://orcid.org/0000-0002-4701-9337" aria-label="ORCID" title="ORCID">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1.8 15.7H8.3V9.2h1.9v8.5zm-.95-9.7a1.1 1.1 0 1 1 0-2.2 1.1 1.1 0 0 1 0 2.2zM12.2 9.2h3.1c2.6 0 4.4 1.7 4.4 4.3 0 2.6-1.8 4.2-4.4 4.2h-3.1V9.2zm3 6.8c1.5 0 2.4-.9 2.4-2.5 0-1.6-.9-2.6-2.4-2.6h-1v5.1h1z"/>
+              </svg>
+            </a>
+
+            <a class="icon-link icon-linkedin" href="https://www.linkedin.com/in/antoinegermain-be/" aria-label="LinkedIn" title="LinkedIn">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M20.45 20.45h-3.55v-5.4c0-1.29-.02-2.95-1.8-2.95-1.8 0-2.08 1.4-2.08 2.85v5.5H9.5V9h3.4v1.56h.05c.47-.9 1.62-1.85 3.33-1.85 3.56 0 4.22 2.35 4.22 5.4v6.34zM5.34 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12zM7.12 20.45H3.56V9h3.56v11.45z"/>
+              </svg>
+            </a>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section id="about">
+      <p class="about-compact">
+        I am a postdoctoral fellow at the <a href="https://sp2.upenn.edu/">University of Pennsylvania School of Social Policy and Practice</a>. I hold a PhD in Economics from <a href="https://uclouvain.be/en/research-institutes/lidam">CORE/LIDAM, UCLouvain</a>
+        obtained in June 2025 as part of <a href="https://www.edpqe.eu/">the European doctoral program</a>.
+      </p>
+
+      <p class="about-compact">
+        My research fields are public economics, labor economics and social choice theory. I evaluate public policies when agents have heterogeneous tastes and when labor markets are imperfect.
+      </p>
+    </section>
+
+    <section id="papers" class="markdown-section" data-md="content/papers.md"></section>
+    <section id="teaching" class="markdown-section" data-md="content/teaching.md"></section>
+    <section id="policy" class="markdown-section" data-md="content/policy.md"></section>
+
+    <footer class="site-footer">
+      <p class="small">© <span id="year"></span> Antoine Germain. Last updated: <span id="updated"></span>.</p>
+    </footer>
+  </main>
+
+  <script src="scripts/render-markdown.js"></script>
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+    document.getElementById("updated").textContent = document.lastModified;
+    window.loadMarkdownSections();
+  </script>
+</body>
+</html>
