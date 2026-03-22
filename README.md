@@ -20,6 +20,17 @@ Static single-page academic website.
 python scripts/build_site.py
 ```
 
+## Google Analytics setup
+- Open `scripts/site-config.js`.
+- Set `googleAnalyticsMeasurementId` to your Google Analytics 4 Measurement ID (for example `G-XXXXXXXXXX`).
+- Rebuild the site after changing the ID:
+
+```bash
+python scripts/build_site.py
+```
+
+If the measurement ID is left blank, Google Analytics is not loaded.
+
 ## Run locally
 ```bash
 python -m http.server 8000

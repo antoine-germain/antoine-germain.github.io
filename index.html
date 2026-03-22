@@ -71,7 +71,23 @@
   </main>
 
   <script src="scripts/render-markdown.js"></script>
+  <script src="scripts/site-config.js"></script>
   <script>
+    const gaMeasurementId = window.siteConfig?.googleAnalyticsMeasurementId?.trim();
+
+    if (gaMeasurementId) {
+      const gaScript = document.createElement("script");
+      gaScript.async = true;
+      gaScript.src = `https://www.googletagmanager.com/gtag/js?id=${encodeURIComponent(gaMeasurementId)}`;
+      document.head.appendChild(gaScript);
+
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      window.gtag = gtag;
+      gtag("js", new Date());
+      gtag("config", gaMeasurementId);
+    }
+
     document.getElementById("year").textContent = new Date().getFullYear();
     document.getElementById("updated").textContent = document.lastModified;
     window.loadMarkdownSections();
