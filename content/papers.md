@@ -1,10 +1,10 @@
 ## Working Papers
 ### 4. [Consumer welfare beyond GDP](https://antoine-germain.github.io/assets/germain_beyondGDP.pdf)
-May 2025
+March 2026
 <details class="abstract">
   <summary> Abstract </summary>
 
-This paper builds axiomatically a measure of consumer welfare in a general consumption space where agents may differ in their preferences, endowments and prices. The axioms reflect the ethics of equality of opportunity: unequal budgets create welfare-relevant inequalities but heterogeneous preferences do not. When combined with an appropriate cross-economy robustness condition, these axioms single out a consumer welfare measure. Like aggregate consumption in national accounts, this measure sums up individual expenditure functions. Unlike national accounts, these functions are evaluated at a common price vector for all individuals. I show that standard measures of cost of living, standards of living, and purchasing power parity can be modified to reflect welfare as equality of opportunity without additional data.
+I construct welfare when consumers have heterogeneous preferences, unequal incomes, and face different prices. The theory builds on three standard axioms: collective welfare (i) is maximized at *Laissez-faire* when consumers have identical budgets, (ii) treats same-preference consumers anonymously, (iii) is separable across economies. I prove a new incompatibility between them whenever there is price dispersion. Then, possibilities are obtained when separability only applies across economies with identical aggregate resources. As standard, these possibilities include a sum of expenditure functions evaluated at a common price. The main novelty is that they also characterize the common price as an income-weighted harmonic mean of individual prices. I apply these results to the measurement of costs and standards of living. For international comparisons of real GDP, one must adopt modified PPP indices that can be made robust to preference heterogeneity without additional data. For growth and inflation measurement, one must adopt constant base prices reflecting all available years.
 </details>
 
 ### 3. Top x%, income inequality, and social welfare
