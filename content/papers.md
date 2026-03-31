@@ -40,7 +40,7 @@ I study redistribution between inactive, unemployed, and employed agents who are
 ### The government as a labor market competitor 
 with [Ioana Marinescu](https://marinescu.eu/)
 
-### Labor market concentration and working hours 
+### Involuntary part-time employment and labor market concentration 
 with [Jakob Beuschlein](https://www.jakobbeuschlein.com/) and [Patrizia Massner](https://patriziamassner.com/)
 
 
