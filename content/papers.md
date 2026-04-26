@@ -1,4 +1,5 @@
 ## Working Papers
+
 ### 4. [Consumer welfare beyond GDP](https://antoine-germain.github.io/assets/germain_beyondGDP.pdf)
 April 2026
 <details class="abstract">
@@ -37,10 +38,10 @@ I study redistribution between inactive, unemployed, and employed agents who are
 
 ## In progress
 
-### Governments as labor market competitors 
-with [Ioana Marinescu](https://marinescu.eu/)
+  ### Governments as labor market competitors 
+  with [Ioana Marinescu](https://marinescu.eu/)
 
-### Involuntary part-time employment and labor market concentration 
-with [Jakob Beuschlein](https://www.jakobbeuschlein.com/) and [Patrizia Massner](https://patriziamassner.com/)
+  ### Involuntary part-time employment and labor market concentration 
+  with [Jakob Beuschlein](https://www.jakobbeuschlein.com/) and [Patrizia Massner](https://patriziamassner.com/)
 
 
