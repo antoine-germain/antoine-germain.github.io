@@ -37,7 +37,7 @@ I study redistribution between inactive, unemployed, and employed agents who are
 
 ## In progress
 
-### Governments as a labor market competitors 
+### Governments as labor market competitors 
 with [Ioana Marinescu](https://marinescu.eu/)
 
 ### Involuntary part-time employment and labor market concentration 
