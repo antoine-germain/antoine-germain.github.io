@@ -120,7 +120,11 @@ details.abstract > summary {
 }
 details.abstract > summary::-webkit-details-marker { display: none; }
 details.abstract > summary:hover { text-decoration: underline; }
-details.abstract p { margin: .45rem 0; }
+details.abstract p {
+  margin: .45rem 0;
+  text-align: justify;
+  font-size: .95em;
+}
 
 .site-footer {
   margin-top: 2rem;
@@ -146,4 +150,3 @@ details.abstract p { margin: .45rem 0; }
   .paper-heading { display: block; }
   .paper-inline-links { display: inline; margin-left: .35rem; }
 }
-
