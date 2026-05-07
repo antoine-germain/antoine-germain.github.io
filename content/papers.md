@@ -8,8 +8,8 @@ April 2026
 I construct individual and collective welfare when consumers have heterogeneous preferences, unequal incomes, and face different prices. The theory builds on three axioms: collective welfare (i) is maximized at *Laissez-faire* when consumers have identical budgets, (ii) treats same-preference consumers anonymously, (iii) is separable across economies. I prove a new incompatibility between them whenever there is price dispersion. Then, possibilities are obtained when separability only applies across proportional economies. As standard, these possibilities include a sum of expenditure functions evaluated at a common price. The main novelty is that the latter is an income-weighted harmonic mean of individual prices. I apply these results to the measurement of costs and standards of living. For international comparisons of real GDP, one can modify PPP indices to make them robust to preference heterogeneity without additional data. For growth and inflation measurement, one must adopt constant base prices reflecting all available years.
 </details>
 
-### 3. Top x%, income inequality, and social welfare
-February 2026 - with [François Maniquet](https://scholar.google.com/citations?user=cQR8M6IAAAAJ&hl=en&oi=sra) - [Data viz](https://antoine-germain.github.io/socialwelfare/)
+### 3. Top x%, income inequality, and social welfare (R&R JPubE)
+February 2026 - with [François Maniquet](https://scholar.google.com/citations?user=cQR8M6IAAAAJ&hl=en&oi=sra) - [Data viz](https://antoine-germain.github.io/socialwelfare/) - Revise & Resubmit at <ins>*Journal of Public Economics*</ins>
 <details class="abstract">
   <summary> Abstract </summary>
 
@@ -27,8 +27,8 @@ I use newly digitized micro datasets to evaluate one of the first-ever labor reg
 </details>
 
 
-### 1. [Basic income versus fairness: redistribution with inactive agents](https://antoine-germain.github.io/assets/basic_income.pdf) (R&R JPubE, 2nd round) 
-February 2026 - [Seminar video](https://vimeo.com/873437966?share=copy)
+### 1. [Basic income versus fairness: redistribution with inactive agents](https://antoine-germain.github.io/assets/basic_income.pdf) 
+February 2026 - [Seminar video](https://vimeo.com/873437966?share=copy) -  Revise & Resubmit at <ins>*Journal of Public Economics*</ins> (2nd round) 
   
  <details class="abstract">
   <summary> Abstract </summary>
