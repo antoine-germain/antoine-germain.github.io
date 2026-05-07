@@ -9,7 +9,7 @@ I construct individual and collective welfare when consumers have heterogeneous 
 </details>
 
 ### 3. Top x%, income inequality, and social welfare 
-February 2026 - with [François Maniquet](https://scholar.google.com/citations?user=cQR8M6IAAAAJ&hl=en&oi=sra) - [Data viz](https://antoine-germain.github.io/socialwelfare/) - Revise & Resubmit at <ins> Journal of Public Economics </ins>
+February 2026 - with [François Maniquet](https://scholar.google.com/citations?user=cQR8M6IAAAAJ&hl=en&oi=sra) - [Data viz](https://antoine-germain.github.io/socialwelfare/) - Revise & Resubmit at **Journal of Public Economics**
 <details class="abstract">
   <summary> Abstract </summary>
 
@@ -28,7 +28,7 @@ I use newly digitized micro datasets to evaluate one of the first-ever labor reg
 
 
 ### 1. [Basic income versus fairness: redistribution with inactive agents](https://antoine-germain.github.io/assets/basic_income.pdf) 
-February 2026 - [Seminar video](https://vimeo.com/873437966?share=copy) -  Revise & Resubmit at <ins>Journal of Public Economics</ins> (2nd round) 
+February 2026 - [Seminar video](https://vimeo.com/873437966?share=copy) -  Revise & Resubmit at **Journal of Public Economics** (2nd round) 
   
  <details class="abstract">
   <summary> Abstract </summary>
