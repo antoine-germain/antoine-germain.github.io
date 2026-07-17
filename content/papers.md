@@ -28,7 +28,7 @@ I use newly digitized micro datasets to evaluate one of the first-ever labor reg
 
 
 ### 1. [Basic income versus fairness: redistribution with inactive agents](https://antoine-germain.github.io/assets/basic_income.pdf) 
-February 2026 - [Seminar video](https://vimeo.com/873437966?share=copy) -  Revise & Resubmit at **Journal of Public Economics** (2nd round) 
+July 2026 - [Seminar video](https://vimeo.com/873437966?share=copy) -  Revise & Resubmit at **Journal of Public Economics** (2nd round) 
   
  <details class="abstract">
   <summary> Abstract </summary>
