@@ -28,7 +28,7 @@ I use newly digitized micro datasets to evaluate one of the first-ever labor reg
 
 ## Publications
 
-[Basic income versus fairness: redistribution with inactive agents](https://doi.org/10.1016/j.jpubeco.2026.105738). _Journal of Public Economics_ (262), October 2026  
+[Basic income versus fairness: redistribution with inactive agents](https://doi.org/10.1016/j.jpubeco.2026.105738). **Journal of Public Economics** (262), October 2026  
 
 ## In progress
 
