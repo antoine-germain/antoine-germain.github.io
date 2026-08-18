@@ -13,8 +13,7 @@ February 2026 - with [François Maniquet](https://scholar.google.com/citations?u
 <details class="abstract">
   <summary> Abstract </summary>
 
-Top income shares are easy to compute and interpret, yet they violate the Pigou-Dalton transfer principle and are not connected to any social welfare function.
-We show that there is only one top income share that minimizes Pigou-Dalton violations while leading to a reasonable social welfare function: the income share of those earning more than the average income above and beyond their population share. We compute the joint evolution of inequality and social welfare globally, which reveals new patterns. For instance, American and French social welfare are identical in levels and dynamics despite opposite trends in growth and inequality.
+Top income shares are easy to compute and interpret, yet they violate the Pigou-Dalton transfer principle and are not connected to any social welfare function. We show that there is only one top income share that minimizes Pigou-Dalton violations while leading to a reasonable social welfare function: the income share of those earning more than the average income above and beyond their population share. We compute the joint evolution of inequality and social welfare globally, which reveals new patterns. For instance, American and French social welfare are identical in levels and dynamics despite opposite trends in growth and inequality.
 </details>
 
 ### 1. [Working time regulations and monopsony power](https://antoine-germain.github.io/assets/Germain_JMP.pdf)
