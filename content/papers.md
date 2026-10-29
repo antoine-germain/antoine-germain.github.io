@@ -31,7 +31,7 @@ I use newly digitized micro datasets to evaluate one of the first-ever labor reg
 
 ## In progress
 
-  ### Governments as labor market competitors 
+  ### Competing for workers: public jobs, monopsony power, and (p)redistribution
   with [Ioana Marinescu](https://marinescu.eu/)
 
   ### Involuntary part-time employment and labor market concentration 
