@@ -1,11 +1,11 @@
 ## Working Papers
 
-### 3. [Consumer welfare beyond GDP](https://antoine-germain.github.io/assets/germain_beyondGDP.pdf)
-April 2026
+### 3. [Who is better off when tastes and prices differ?](https://antoine-germain.github.io/assets/germain_beyondGDP.pdf)
+November 2026
 <details class="abstract">
   <summary> Abstract </summary>
 
-I construct individual and collective welfare when consumers have heterogeneous preferences, unequal incomes, and face different prices. The theory builds on three axioms: collective welfare (i) is maximized at *Laissez-faire* when consumers have identical budgets, (ii) treats same-preference consumers anonymously, (iii) is separable across economies. I prove a new incompatibility between them whenever there is price dispersion. Then, possibilities are obtained when separability only applies across proportional economies. As standard, these possibilities include a sum of expenditure functions evaluated at a common price. The main novelty is that the latter is an income-weighted harmonic mean of individual prices. I apply these results to the measurement of costs and standards of living. For international comparisons of real GDP, one can modify PPP indices to make them robust to preference heterogeneity without additional data. For growth and inflation measurement, one must adopt constant base prices reflecting all available years.
+Deflating nominal income for price differences might not be welfare-consistent when consumers also differ in tastes. I prove that three standard axioms are incompatible when there is both price and taste dispersion: collective welfare (i) is maximized at \textit{Laissez-faire} when consumers have identical budgets, (ii) treats same-preference consumers anonymously, (iii) is invariant to indifferent consumers' budgets. Weakening the last axiom leads individual welfare to be measured by a money-metric utility against a common endogenous price: the income-weighted harmonic mean of prices. Unlike conventional purchasing power parities, this measure compares two countries independently of third countries’ tastes, at given prices and incomes. I show empirically that this amplifies real consumption inequalities across countries. 
 </details>
 
 ### 2. Top x%, income inequality, and social welfare 
