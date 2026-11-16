@@ -1,6 +1,6 @@
 ## Working Papers
 
-### 3. [Who is better off when tastes and prices differ?](https://antoine-germain.github.io/assets/germain_beyondGDP.pdf)
+### 3. [Who is better off when tastes and prices differ?](https://antoine-germain.github.io/assets/Germain_beyondGDP.pdf)
 November 2026
 <details class="abstract">
   <summary> Abstract </summary>
